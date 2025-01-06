@@ -1,0 +1,22 @@
+{
+  "name": "lists",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "npm run eleventy",
+    "clean": "npx rimraf dist/",
+    "eleventy": "npx @11ty/eleventy",
+    "prettier": "prettier --write src/",
+    "fix": "eslint --fix **/*.js",
+    "lint": "eslint --ext .js --fix src/**",
+    "serve": "npm run eleventy -- --serve",
+    "start": "npm run serve"
+  },
+  "private": true,
+  "devDependencies": {
+    "@11ty/eleventy": "3.0.0",
+    "@eslint/js": "9.17.0",
+    "eslint": "9.17.0",
+    "globals": "15.14.0",
+    "prettier": "3.4.2"
+  }
+}
