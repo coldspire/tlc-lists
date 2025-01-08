@@ -1,6 +1,9 @@
 import { inspect } from "node:util";
+import { EleventyHtmlBasePlugin } from "@11ty/eleventy";
 
 export default async function(eleventyConfig) {
+  eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
+
   eleventyConfig.addPassthroughCopy("styles");
   eleventyConfig.addPassthroughCopy("fonts");
 
@@ -8,6 +11,7 @@ export default async function(eleventyConfig) {
   eleventyConfig.addFilter("inspect", obj => inspect(obj, { sorted: true, depth: null }));
 
   return {
+    pathPrefix: "/lists/",
     dir: {
       data: "../_data",
       includes: "../_includes",

@@ -8,6 +8,6 @@ layout: index.liquid
 {% assign listIds = lists | keys %}
 {%- for listId in listIds -%}
 {% assign list = lists[listId] %}
-<li><a href="list/{{ listId | slugify }}/">{{ list.title }}</a></li>
+<li><a href="{{ listId | slugify }}/">{{ list.title }}</a></li>
 {%- endfor -%}
 </ul>

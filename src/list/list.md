@@ -4,7 +4,7 @@ pagination:
   data: lists
   size: 1
   alias: listId
-permalink: "list/{{ listId | slugify }}/index.html"
+permalink: "{{ listId | slugify }}/index.html"
 ---
 {% assign list = lists[listId] %}
 # {{ list.title }}
@@ -17,4 +17,4 @@ permalink: "list/{{ listId | slugify }}/index.html"
 {%- endfor -%}
 </ul>
 
-<a href="/">Back to index</a>
+<a href="/lists/">Back to index</a>
