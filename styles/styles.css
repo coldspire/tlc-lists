@@ -1,1 +1,33 @@
 @import url('reset.css');
+
+:root {
+	font: 16pt/1.2 serif;
+}
+
+.list__item + .list__item {
+	margin-top: 1rem;
+}
+
+
+.list__item::marker {
+	font-size: 1.75rem;
+}
+
+.list__item > p {
+	margin: 0;
+	padding: 0;
+}
+
+.text--primary {
+	font-size: 1.75rem;
+	color: #333;
+}
+
+.text--secondary {
+	font-size: 1.5rem;
+	color: #777;
+}
+
+.text--additional {
+	font-size: 1rem;
+}
