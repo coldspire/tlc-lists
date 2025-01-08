@@ -1,0 +1,20 @@
+{
+  "title": "Favorite Songs of 2024",
+  "description": "Like it says on the tin",
+  "type": {
+    "primary": "song",
+    "secondary": "album and artist"
+  },
+  "items": [
+    {
+      "primary": "The Azdinist / Den of Dawns",
+      "secondary": "From \"Fym\" by Azure",
+      "additionalText": "This song rules."
+    },
+    {
+      "primary": "No Weapon Formed Shall Prosper",
+      "secondary": "From \"Eviscerate\" by Eidola",
+      "additionalText": "What a song!"
+    }
+  ]
+}

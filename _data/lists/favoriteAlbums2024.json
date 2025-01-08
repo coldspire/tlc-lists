@@ -1,0 +1,20 @@
+{
+  "title": "Favorite Albums of 2024",
+  "description": "Like it says on the tin",
+  "type": {
+    "primary": "album",
+    "secondary": "artist"
+  },
+  "items": [
+    {
+      "primary": "Wheels Within Wheels",
+      "secondary": "Meer",
+      "additionalText": "This album rules."
+    },
+    {
+      "primary": "Fym",
+      "secondary": "Azure",
+      "additionalText": "What an album!"
+    }
+  ]
+}

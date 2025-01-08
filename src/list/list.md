@@ -1,4 +1,20 @@
 ---
 layout: list.liquid
+pagination:
+  data: lists
+  size: 1
+  alias: listId
+permalink: "list/{{ listId | slugify }}/index.html"
 ---
-This is a list
+{% assign list = lists[listId] %}
+# {{ list.title }}
+
+{{ list.description }}
+
+<ul>
+{%- for item in list.items -%}
+<li>{{ item.primary }} / {{ item.secondary }} / {{ item.additionalText }}</li>
+{%- endfor -%}
+</ul>
+
+<a href="/">Back to index</a>
