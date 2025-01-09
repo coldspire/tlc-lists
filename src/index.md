@@ -4,7 +4,7 @@ layout: index.liquid
 
 # Lists
 
-<ul class="list--no-style">
+<ul class="list list--no-style">
 {% assign listIds = lists | keys %}
 {%- for listId in listIds -%}
 {% assign list = lists[listId] %}
