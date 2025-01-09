@@ -1,33 +1,51 @@
 @import url('reset.css');
 
 :root {
+	--primary-size: 1.75rem;
+	--primary-color: black;
+
+	--secondary-size: 1.5rem;
+	--secondary-color: #666;
+
+	--additional-size: 1rem;
+	--additional-color: #666;
+}
+
+body {
 	font: 16pt/1.2 serif;
 }
 
-.list__item + .list__item {
-	margin-top: 1rem;
+.text--primary {
+	font-size: var(--primary-size);
+	color: var(--primary-color);
 }
 
+.text--secondary {
+	font-size: var(--secondary-size);
+	color: var(--secondary-color);
+}
+
+.text--additional {
+	font-size: var(--additional-size);
+	color: var(--additional-color);
+}
+
+/** List styles */
+
+.list--no-style {
+	list-style: none;
+}
 
 .list__item::marker {
-	font-size: 1.75rem;
+	font-size: var(--primary-size);
+	color: var(--primary-color);
+}
+
+.list__item + .list__item {
+	margin-top: 1.5rem;
 }
 
 .list__item > p {
 	margin: 0;
 	padding: 0;
-}
-
-.text--primary {
-	font-size: 1.75rem;
-	color: #333;
-}
-
-.text--secondary {
-	font-size: 1.5rem;
-	color: #777;
-}
-
-.text--additional {
-	font-size: 1rem;
 }
