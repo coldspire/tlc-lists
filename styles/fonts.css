@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'Libre Caslon Text Regular';
+	src: url('../fonts/LibreCaslonText-Regular.ttf') format('truetype');
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'Figtree Regular';
+	src: url('../fonts/Figtree-VariableFont_wght.ttf') format('truetype');
+	font-weight: normal;
+}
