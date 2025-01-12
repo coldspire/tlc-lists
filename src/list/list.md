@@ -5,11 +5,13 @@ pagination:
   size: 1
   alias: listId
 permalink: "{{ listId | slugify }}/index.html"
+eleventyComputed:
+  docTitle: "List - {{ lists[listId].title }}"
 ---
 
 {% assign list = lists[listId] %}
 
-# {{ list.title }}
+# List: {{ list.title }}
 
 {{ list.description }}
 

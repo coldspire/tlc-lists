@@ -1,5 +1,6 @@
 ---
 layout: index.liquid
+docTitle: Lists
 ---
 
 # Lists
