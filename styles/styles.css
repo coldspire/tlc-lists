@@ -13,6 +13,8 @@
 
 	--font-family--serif: 'Libre Caslon Text Regular', Georgia, serif;
 	--font-family--sans-serif: 'Figtree Regular', Calibri, sans-serif;
+
+	--section-spacing: 2.5rem;
 }
 
 body {
@@ -55,6 +57,18 @@ p {
 }
 
 /** List styles */
+
+body > * + * {
+	margin-block-start: var(--section-spacing);
+}
+
+.description {
+	font-size: 1.25rem;
+}
+
+.description > p + p {
+	margin-block-start: 0.75rem;
+}
 
 .list {
 	padding-inline-start: var(--primary-size);
