@@ -11,18 +11,28 @@ eleventyComputed:
 
 {% assign list = lists[listId] %}
 
-# List: {{ list.title }}
+<header>
+    <h1>List: {{ list.title }}</h1> 
+</header>
 
-{{ list.description }}
+<section class="description">
+    {%- for line in list.description -%}
+    {{ line | renderContent: "md" }}
+    {%- endfor -%}
+</section>
 
-<ol class="list">
-{%- for item in list.items -%}
-<li class="list__item">
-    <p class="text--primary">{{ item.primary }}</p>
-    <p class="text--secondary">{{ item.secondary }}</p>
-    <p class="text--additional">{{ item.additionalText }}</p>
-</li>
-{%- endfor -%}
-</ol>
+<section class="list__container">
+    <ol class="list">
+    {%- for item in list.items -%}
+    <li class="list__item">
+        <p class="text--primary">{{ item.primary }}</p>
+        <p class="text--secondary">{{ item.secondary }}</p>
+        <p class="text--additional">{{ item.additionalText }}</p>
+    </li>
+    {%- endfor -%}
+    </ol>
+</section>
 
-<a href="/lists/">Back to index</a>
+<footer>
+    <a href="/lists/">Back to index</a>
+</footer>

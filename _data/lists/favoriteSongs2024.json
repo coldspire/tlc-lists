@@ -1,6 +1,9 @@
 {
   "title": "Favorite Songs of 2024",
-  "description": "Like it says on the tin",
+  "description": [
+    "This is a line of the description. **whoa**",
+    "This second line contains a [link](www.google.com). Sweet"
+  ],
   "type": {
     "primary": "song",
     "secondary": "album and artist"
