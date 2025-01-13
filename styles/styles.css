@@ -86,14 +86,22 @@ body > * + * {
 }
 
 .list__item + .list__item {
-	margin-top: 2rem;
+	margin-block-start: 1.5rem;
 }
 
-.list__item > p {
+.list__item > * {
 	margin: 0;
 	padding: 0;
 }
 
-.list__item > p + p {
-	margin-top: 0.5rem;
+/*
+	Additional text uses a div container with a child paragraph because of Markdown rendering.
+    This clears any internal paragraph margin.
+ */
+.list__item > * > p {
+	margin-block-start: 0;
+}
+
+.list__item > * + * {
+	margin-block-start: 0.5rem;
 }

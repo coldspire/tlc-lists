@@ -27,7 +27,7 @@ eleventyComputed:
     <li class="list__item">
         <p class="text--primary">{{ item.primary }}</p>
         <p class="text--secondary">{{ item.secondary }}</p>
-        <p class="text--additional">{{ item.additionalText | renderContent: "md" }}</p>
+        <div class="text--additional">{{ item.additionalText | renderContent: "md" }}</div>
     </li>
     {%- endfor -%}
     </ol>
