@@ -1,8 +1,10 @@
 import { inspect } from "node:util";
 import { EleventyHtmlBasePlugin } from "@11ty/eleventy";
+import { EleventyRenderPlugin } from "@11ty/eleventy";
 
 export default async function(eleventyConfig) {
   eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
+  eleventyConfig.addPlugin(EleventyRenderPlugin);
 
   eleventyConfig.addPassthroughCopy("styles");
   eleventyConfig.addPassthroughCopy("fonts");

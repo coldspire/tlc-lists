@@ -1,6 +1,9 @@
 {
   "title": "Favorite Songs of 2024",
-  "description": "Like it says on the tin",
+  "description": [
+    "This is a line of the description. **whoa**",
+    "This second line contains a [link](www.google.com). Sweet"
+  ],
   "type": {
     "primary": "song",
     "secondary": "album and artist"
@@ -9,7 +12,7 @@
     {
       "primary": "The Azdinist / Den of Dawns",
       "secondary": "From \"Fym\" by Azure",
-      "additionalText": "This song rules."
+      "additionalText": "This song rules. _Yes_"
     },
     {
       "primary": "No Weapon Formed Shall Prosper",
