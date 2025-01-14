@@ -22,7 +22,12 @@ eleventyComputed:
 </section>
 
 <section class="list__container">
-    <ol class="list">
+    {%- if list.isCountdown -%}
+    <input type="checkbox" id="is-countdown" checked>
+    <label for="is-countdown">Count down</label>
+    {%- endif -%}
+
+    <ol class="list list--ascending">
     {%- for item in list.items -%}
     <li class="list__item">
         <p class="text--primary">{{ item.primary }}</p>
@@ -31,6 +36,23 @@ eleventyComputed:
     </li>
     {%- endfor -%}
     </ol>
+
+    {%- if list.isCountdown -%}
+    <!-- To show the countdown list, we write out the list twice, a second time here with the items reversed. -->
+    <!-- Flipping between the lists is controlled by a checkbox and CSS styles. -->
+    <!-- This doubles the markup, but we avoid use of JavaScript this way. -->
+    <ol class="list list--descending" reversed>
+    {% assign listItemsReversed = list.items | reverse %}
+    {%- for item in listItemsReversed -%}
+    <li class="list__item">
+        <p class="text--primary">{{ item.primary }}</p>
+        <p class="text--secondary">{{ item.secondary }}</p>
+        <div class="text--additional">{{ item.additionalText | renderContent: "md" }}</div>
+    </li>
+    {%- endfor -%}
+    </ol>
+    {%- endif -%}
+
 </section>
 
 <footer>
