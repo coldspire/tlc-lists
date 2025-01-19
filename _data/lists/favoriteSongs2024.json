@@ -4,6 +4,7 @@
     "This is a line of the description. **whoa**",
     "This second line contains a [link](www.google.com). Sweet"
   ],
+  "isCountdown": true,
   "type": {
     "primary": "song",
     "secondary": "album and artist"

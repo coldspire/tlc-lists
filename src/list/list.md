@@ -22,8 +22,15 @@ eleventyComputed:
 </section>
 
 <section class="list__container">
-    <ol class="list">
-    {%- for item in list.items -%}
+    {%- if list.isCountdown -%}
+    {% assign listItems = list.items | reverse %}
+    <p class="text--italic">This list counts down.</p>
+    {%- else -%}
+    {% assign listItems = list.items %}
+    {%- endif -%}
+
+    <ol class="list" {%- if list.isCountdown -%} reversed {%- endif -%}>
+    {%- for item in listItems -%}
     <li class="list__item">
         <p class="text--primary">{{ item.primary }}</p>
         <p class="text--secondary">{{ item.secondary }}</p>
