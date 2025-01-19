@@ -56,6 +56,10 @@ p {
 	color: var(--additional-color);
 }
 
+.text--italic {
+	font-style: italic;
+}
+
 /** List styles */
 
 body > * + * {
@@ -73,22 +77,6 @@ body > * + * {
 .list {
 	padding-inline-start: var(--primary-size);
 }
-
-/**
-	Here's how we switch between the ascending or descending lists.
-	Both lists are in the DOM, but we hide the ascending list if the countdown checkbox is checked,
-	or hide the descending list if the checkbox is not checked.
-*/
-
-#is-countdown:checked ~ .list--ascending {
-	display: none;
-}
-
-#is-countdown:not(:checked) ~ .list--descending {
-	display: none;
-}
-
-/** End funny list-order stylings */
 
 .list.list--no-style {
 	padding: 0;
