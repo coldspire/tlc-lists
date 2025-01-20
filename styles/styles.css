@@ -90,10 +90,10 @@ body > * + * {
 }
 
 .list__item + .list__item {
-	margin-block-start: 1.5rem;
+	margin-block-start: 3rem;
 }
 
-.list__item > * {
+.list__item > [data-words-box] > * {
 	margin: 0;
 	padding: 0;
 }
@@ -102,10 +102,7 @@ body > * + * {
 	Additional text uses a div container with a child paragraph because of Markdown rendering.
     This clears any internal paragraph margin.
  */
-.list__item > * > p {
-	margin-block-start: 0;
-}
 
-.list__item > * + * {
+.list__item > [data-words-box] > * + * {
 	margin-block-start: 0.5rem;
 }
