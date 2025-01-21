@@ -1,6 +1,7 @@
 {
   "name": "lists",
   "version": "1.0.0",
+  "type": "module",
   "scripts": {
     "build": "npm run eleventy",
     "clean": "npx rimraf dist/",
