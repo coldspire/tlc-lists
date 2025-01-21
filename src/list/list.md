@@ -32,9 +32,15 @@ eleventyComputed:
     <ol class="list" {%- if list.isCountdown -%} reversed {%- endif -%}>
     {%- for item in listItems -%}
     <li class="list__item">
-        <p class="text--primary">{{ item.primary }}</p>
-        <p class="text--secondary">{{ item.secondary }}</p>
-        <div class="text--additional">{{ item.additionalText | renderContent: "md" }}</div>
+        <div class="list__item__container">
+            <div data-words-box>
+                <p class="text--primary">{{ item.primary }}</p>
+                <p class="text--secondary">{{ item.secondary }}</p>
+            </div>
+            <div data-words-box class="text--additional">
+                {{ item.additionalText | renderContent: "md" }}
+            </div>
+        </div>
     </li>
     {%- endfor -%}
     </ol>
