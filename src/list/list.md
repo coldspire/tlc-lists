@@ -22,25 +22,35 @@ eleventyComputed:
 <section class="list__container">
     {%- if list.isCountdown -%}
     {% assign listItems = list.items | reverse %}
-    <p class="text--italic">This list counts down.</p>
     {%- else -%}
     {% assign listItems = list.items %}
     {%- endif -%}
 
-    <ol class="list" {%- if list.isCountdown -%} reversed {%- endif -%}>
-    {%- for item in listItems -%}
-    <li class="list__item">
-        <div class="list__item__container">
-            <div data-words-box>
-                <p class="text--primary">{{ item.primary }}</p>
-                <p class="text--secondary">{{ item.secondary }}</p>
-            </div>
-            <div data-words-box class="text--additional">
-                {{ item.additionalText | renderContent: "md" }}
-            </div>
-        </div>
-    </li>
-    {%- endfor -%}
+    {%- if list.isCountdown -%}
+    <p class="text--italic">This list counts down. <a href="#list-item-1">Start from the top</a>.</p>
+    {%- endif -%}
+
+    <ol class="list {% if list.isCountdown %}list--countdown{% endif %}" 
+        {%- if list.isCountdown -%} reversed {%- endif -%}
+    >
+        {%- for item in listItems -%}
+        <li class="list__item" id="list-item-{{ forloop.index }}">
+            <div class="list__item__container">
+                <div data-words-box>
+                    <p class="text--primary">{{ item.primary }}</p>
+                    <p class="text--secondary">{{ item.secondary }}</p>
+                </div>
+                <div data-words-box class="text--additional">
+                    {{ item.additionalText | renderContent: "md" }}
+                </div>
+            </div>                
+            <p>                    
+                {%- if list.isCountdown and not forloop.last -%}
+                    <a href="#list-item-{{ forloop.index | plus: 1 }}">See next</a></p>
+                {%- endif -%}
+            </p>
+        </li>
+        {%- endfor -%}
     </ol>
 </section>
 
