@@ -11,9 +11,7 @@ eleventyComputed:
 
 {% assign list = lists[listId] %}
 
-<header>
-    <h1>List: {{ list.title }}</h1> 
-</header>
+# List: {{ list.title }}
 
 <section class="description">
     {%- for line in list.description -%}
