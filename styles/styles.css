@@ -78,7 +78,7 @@ body > * + * {
 }
 
 .list {
-	padding-inline-start: var(--primary-size);
+	padding-inline-start: 3rem;
 }
 
 .list.list--no-style {
