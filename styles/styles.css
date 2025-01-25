@@ -22,8 +22,8 @@
 body {
 	font: 16pt/1.2 serif;
 	font-family: var(--font-family--sans-serif);
-	margin: 2rem;
-	padding: 0;
+	margin: 0;
+	padding: clamp(2rem, 5svw, 3rem);
 
 	max-width: var(--content-max-width);
 }
@@ -78,7 +78,7 @@ body > * + * {
 }
 
 .list {
-	padding-inline-start: var(--primary-size);
+	padding-inline-start: 3rem;
 }
 
 .list.list--no-style {
