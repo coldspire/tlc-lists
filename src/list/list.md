@@ -44,6 +44,31 @@ eleventyComputed:
     </ol>
 </section>
 
+{%- if list.exclusions -%}
+
+<h2>Exclusions</h2>
+
+<section class="list__container">
+    {% assign exclusions = list.exclusions %}
+
+    <ul class="list">
+    {%- for item in exclusions -%}
+    <li class="list__item item-exclusion">
+        <div class="list__item__container">
+            <div data-words-box>
+                <p class="text--primary">{{ item.primary }}</p>
+                <p class="text--secondary">{{ item.secondary }}</p>
+            </div>
+            <div data-words-box class="text--additional">
+                {{ item.additionalText | renderContent: "md" }}
+            </div>
+        </div>
+    </li>
+    {%- endfor -%}
+    </ol>
+</section>
+{%- endif -%}
+
 <footer>
     <a href="/lists/">Back to index</a>
 </footer>
