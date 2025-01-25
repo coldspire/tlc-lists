@@ -118,3 +118,8 @@ body > * + * {
 .list__item__container > [data-words-box] > * + * {
 	margin-block-start: 0.5rem;
 }
+
+.item-exclusion::marker {
+	font-size: var(--secondary-size);
+	content: '⛔ ';
+}
