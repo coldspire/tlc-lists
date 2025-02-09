@@ -2,6 +2,8 @@
 @import url('fonts.css');
 
 :root {
+	--bg-color: #F8F8F8;
+
 	--primary-size: 1.75rem;
 	--primary-color: black;
 
@@ -24,6 +26,8 @@ body {
 	font-family: var(--font-family--sans-serif);
 	margin: 0;
 	padding: clamp(2rem, 5svw, 3rem);
+
+	background-color: var(--bg-color);
 
 	max-width: var(--content-max-width);
 }
@@ -122,4 +126,15 @@ body > * + * {
 .item-exclusion::marker {
 	font-size: var(--secondary-size);
 	content: '⛔ ';
+}
+
+[data-item-essential] {
+	--fade-distance: 1rem;
+	padding-bottom: var(--fade-distance);
+
+	position: sticky;
+	top: 0;
+
+    --bg-distance: calc(90% + var(--fade-distance));
+	background-image: linear-gradient(to bottom, var(--bg-color) 85%, transparent);
 }
