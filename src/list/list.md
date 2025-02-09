@@ -31,7 +31,7 @@ eleventyComputed:
     {%- for item in listItems -%}
     <li class="list__item">
         <div class="list__item__container">
-            <div data-words-box>
+            <div data-words-box data-item-essential>
                 <p class="text--primary">{{ item.primary }}</p>
                 <p class="text--secondary">{{ item.secondary }}</p>
             </div>
@@ -55,7 +55,7 @@ eleventyComputed:
     {%- for item in exclusions -%}
     <li class="list__item item-exclusion">
         <div class="list__item__container">
-            <div data-words-box>
+            <div data-words-box data-item-essential>
                 <p class="text--primary">{{ item.primary }}</p>
                 <p class="text--secondary">{{ item.secondary }}</p>
             </div>
