@@ -1,8 +1,8 @@
 export default {
   title: "Favorite Albums of 2024",
   "description": [
-    "While 2024 didn't bring as many bangers as the nearly-unparalleled super-stacked 2023*, 2024 turned out to be the years of surprises. Last year brought several best-of-career releases from the known suspects (_Sleep Token_, _Periphery_, _Tesseract_, _Gloryhammer_, others!), but this year brought equally-terrific albums by surprise guests, bands I've never heard of.",
-    "So if 2023 was the year where my own circle of music paid off, 2024 was the year where my circle broadended signficantly. The end result is two great years."
+    "While 2024 didn't bring as many bangers as the nearly-unparalleled super-stacked 2023, 2024 turned out to be the years of surprises. A good half of the albums listed below are by bands I'd never _heard_ of, let alone heard any music by. Which means that I brought a ton of new bands, new sounds, and new music into the fold in 2024. A great year overall.",
+    "Somewhat curiously, eight of my picks hail from Nordic locales. Another six are from England. I guess I know where I like my music to come from."
   ],
   type: {
     primary: "album",
@@ -63,17 +63,17 @@ export default {
     {
       primary: "Neon Inferno",
       secondary: "One Morning Left",
-      additionalText: ``
+      additionalText: `As I write this on Feburary 18th, 2025, I learn that this Finnish frenetic pop-metalcore group was disbanded less than a month ago due to child grooming allegations against one of the founders. I could talk about how this album filled a happy-metal hole in my listening needs that was previously filled by similarly-energetic Swedish neighbors Amaranthe, who also released an album in 2024. Amaranthe's new album was so impactless that I forgot it exists, and I was excited with a future forward with One Morning Left, captivated by the verve of this energy drink of an album. But no more attention is deserved towards this album or its band.`
     },
     {
       primary: "Rug Island",
       secondary: "Bluey",
-      additionalText: ``
+      additionalText: `I have all three vinyls for all three Bluey albums, including this one, in my collection. This new one ranks second-best in the collection, ranking lower than the excellent first album but higher than the sugar-rush effectiveness of _Dance Mode!_. The adapations and expansions to songs from the various episodes continues to be truly winning, as favorite tunes and memories get bigger and better, giving ample opporunity to showcase the top-tier songwriting and musicianship. Just like the show, and like the titular "Rug Island" episode, this album has playfulness, fun, and creativity, but also plenty of warmth. If this is the last album for the TV show – lead writer Joe Brumm is finishing his _Bluey_ involvement with a movie, leaving room for a movie album? – it's a great one to go out on.`
     },
     {
       primary: "Wheels Within Wheels",
       secondary: "Meer",
-      additionalText: ``
+      additionalText: `It was the single "Golden Circle", one of my favorite songs of 2024, captured my interest for the subsequent LP. XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX`
     },
     {
       primary: "Where Gods Fear To Speak",
@@ -83,7 +83,7 @@ export default {
     {
       primary: "Solemn",
       secondary: "In Vain",
-      additionalText: ``
+      additionalText: `Among words used to describe metal albums, especially albums wide in scope and with a large dynamic sound, there is no word more overused than "epic." I've seen the word used to describe this beefy block of death metal, an chock album of coarse walls of guitars and growls, pierced with clean vocals to balance the sludge, like sunlight breaking through storm clouds. And you know what? It's pretty epic. The album just feels _heavy_, both musically and conceptually. Each listen left a lasting impression on me, like I'd witnessed a landscape that was grim and cheerless but still beautiful. I don't dip my toes into the darker metal realms much, but with albums like this one, I'm starting to realize I may need to dive in.`
     },
     {
       primary: "Karma",
@@ -93,17 +93,17 @@ export default {
     {
       primary: "Charcoal Grace",
       secondary: "Caligula's Horse",
-      additionalText: ``
+      additionalText: `The liner notes for _Charcoal Grace_ mention how the band's previous album, _Rise Radiant_, was never fully known by the band by being released at the start of the COVID-19 epidemic, depriving it of tour-provided oxygen from the start. That album had a feeling of boldness, daring and frontier; _Charcoal Grace_, on the heels of its stillborn older sibling, feels like a family trying to find a way forward after a storm destroyed their house. It has strength but also somber realization and open wounds in the midst of recovery.`
     },
     {
       primary: "Charismatic Leaders",
       secondary: "Wheel",
-      additionalText: ``
+      additionalText: `An album I think about when thinking about the structure and composition of _Charismatic Leaders_ is _Blood_ by OSI: both albums have a clinical precision and tightness. While _Blood_ is certainly more adventurous and wider in scope, both in composition and concepts (and, as an aside, is one my favorite albums ever), this latest album by Wheel has the same XXXXXXXXXXXXXXXXXX`
     },
     {
       primary: "Les Chants de l'Aurore",
       secondary: "Alcest",
-      additionalText: `Several years ago I saw _Alcest_ live as the opener for an _Anathema_ show, and this post-metal band cemented themselves in my musical history by playing so loud that they caused me permanent hearing damage. (I wore earplugs to concerts both before and after that one. So I had no excuse at the _Alcest_ show.) In 2024, these Frenchies released this fine album that an [Angry Metal Guy reviewer described as evoking late summer](https://www.angrymetalguy.com/alcest-les-chants-de-laurore-review/), and I wouldn't even try to come up with a better comparison. The LP has the embrace of seasonal warmth and the fading light as the colder months approach. _Chants_ feels like the memories of days in the sun are already beginning to fade. And the album art is gorgeous.`
+      additionalText: `Several years ago I saw _Alcest_ live as the opener for an _Anathema_ show, and this post-metal band cemented themselves in my musical history by playing so loud that they caused me permanent hearing damage. (I wore earplugs to concerts both before and after that one. So I had no excuse at the _Alcest_ show.) In 2024, these Frenchies released this fine album that an [Angry Metal Guy reviewer described as evoking late summer](https://www.angrymetalguy.com/alcest-les-chants-de-laurore-review/), and I wouldn't even try to come up with a better comparison. The LP has the embrace of seasonal warmth and the fading light as the colder months approach. _Chants_ feels like the memories of days in the sun are already beginning to fade. And as the cherry on top, if this was a list of best album art, _Les Chants_ might've won the top spot.`
     },
     {
       primary: "Showdown",
