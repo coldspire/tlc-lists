@@ -46,13 +46,21 @@ eleventyComputed:
 
 {%- if list.exclusions -%}
 
+{% assign exclusions = list.exclusions %}
+
 <h2>Exclusions</h2>
 
-<section class="list__container">
-    {% assign exclusions = list.exclusions %}
+{%- if exclusions.description -%}
+<section class="description">
+    {%- for line in exclusions.description -%}
+    {{ line | renderContent: "md" }}
+    {%- endfor -%}
+</section>
+{%- endif -%}
 
-    <ul class="list">
-    {%- for item in exclusions -%}
+<section class="list__container">
+    <ol class="list">
+    {%- for item in exclusions.items -%}
     <li class="list__item item-exclusion">
         <div class="list__item__container">
             <div data-words-box data-item-essential>
