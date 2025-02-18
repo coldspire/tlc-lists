@@ -59,7 +59,7 @@ eleventyComputed:
 {%- endif -%}
 
 <section class="list__container">
-    <ol class="list">
+    <ul class="list">
     {%- for item in exclusions.items -%}
     <li class="list__item item-exclusion">
         <div class="list__item__container">
@@ -73,7 +73,7 @@ eleventyComputed:
         </div>
     </li>
     {%- endfor -%}
-    </ol>
+    </ul>
 </section>
 {%- endif -%}
 
