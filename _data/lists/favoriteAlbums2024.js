@@ -19,12 +19,12 @@ export default {
     {
       primary: "Fym",
       secondary: "Azure",
-      additionalText: ``
+      additionalText: `During the 00s, when Luca Turilli and his fellow Italians in Rhapsody were ripping it up and churning out symphonic power metal platinum, I was there for it. Those albums had operatic neo-classical energy as strong as a thousand suns, but you know what they didn't have? A half-decent, compelling fantasy concept, in any regard. Turilli released five LPs and one EP in his "Emerald Sword Saga", and, frankly, only _Dawn of Victory_ had _songs_ with compelling concepts, let alone an entire album reaching any cohesive narrative achievement. Jump ahead a couple decades, after Rhapsody split and rejoined multiple times, and we have this gem of an album by Azure. I'm not going to say I fully get (or enjoy) the story of Fym and the titular character's adventures, but listening to Fym _feels_ like a journey. Between the playful narritive-driven lyrics and the expansive lush music, Fym brings everything to the table and plays with it gleefully.Because of the wonderful music and the exquisite vocal performance of the band lead, a song on Fym reveals bears extra dimensions, like watching a live musical on a stage, where the blocking and acting boosts the music to another level. The world of Fym as created by Azure feels rich and fantastical like no other album I've ever heard.`
     },
     {
       primary: "Swagger & Stroll Down the Rabbit Hole (2021)",
       secondary: "Diablo Swing Orchestra",
-      additionalText: ``
+      additionalText: `Few albums are a pure delightful showcase like this one. Not only is the musicianship top-notch, but the effortless playfulness, confidence, and variety is unmatched by any of my other picks. To think you have a handle on _Swagger & Stroll_ just means you're due for another listen – there are multitudes here to abosrb and relish. I mean, the first five tracks include a Chicano-rock song, a electro-gypsy-swing song, and a Celtic pop-punk song, with good amounts of progressive metal and soaring pop mixed in. And there are about ten more songs after that, during which the momentum and joy continue unabated. An utterly extrodinary album, one unlike anything I've ever heard.`
     },
     {
       primary: "Mannequin",
@@ -39,7 +39,7 @@ export default {
     {
       primary: "Falter, Endure",
       secondary: "Isbjörg",
-      additionalText: ``
+      additionalText: `Where the new Weather Systems album, a legacy of the once-mighty Anathema, barely treaded water for me – see the "Exclusions" list below, sadly – this album came out of the clear blue and soared. These Danish "math-stadium rockers," as described by the [official band site](https://www.isbjorg.dk), XXXXXXXXXXXXXXXXXXXX. The single "Solitare" opened the doors to me, with its XXXXXXXXXX and saxophone solos, and the rest of the album XXXXXXXXXX`
     },
     {
       primary: "Life in the Wires",
@@ -49,7 +49,7 @@ export default {
     {
       primary: "Mile Marker Zero",
       secondary: "Coming of Age",
-      additionalText: `We may never get a 00's-era Porcupine Tree album again, but the variety and confidence in this album by Mile Marker Zero makes me feel a lot better about the dismal chances of a _Deadwing 2_. This band has my periphery for several years, but _Coming of Age_ finally brought me in. Plenty of strong sounds here; the title track is a particular favorite.`
+      additionalText: `We may never get a 00's-era Porcupine Tree album again, but the variety and confidence in this progressive album by Mile Marker Zero makes me feel a lot better about the dismal chances of a _Deadwing 2_. This band has been in my periphery for several years, and when I finally set my sights on _Coming of Age_, I was finally brought in. Plenty of strong sounds here; the title track is a particular favorite.`
     },
     {
       primary: "The Skies Above Eternity",
@@ -64,17 +64,17 @@ export default {
     {
       primary: "Neon Inferno",
       secondary: "One Morning Left",
-      additionalText: `As I write this on Feburary 18th, 2025, I learn that this Finnish frenetic pop-metalcore group was disbanded less than a month ago due to child grooming allegations against one of the founders. I could talk about how this album filled a happy-metal hole in my listening needs that was previously filled by similarly-energetic Swedish neighbors Amaranthe, who also released an album in 2024. Amaranthe's new album was so impactless that I forgot it exists, and I was excited with a future forward with One Morning Left, captivated by the verve of this energy drink of an album. But no more attention is deserved towards this album or its band.`
+      additionalText: `On Feburary 18th, 2025, as I write this, I learn that this Finnish frenetic pop-metalcore group was disbanded less than a month ago due to child grooming allegations against one of the founders. I could talk about how this album filled a happy-metal hole in my listening needs that was previously filled by similarly-energetic Swedish neighbors Amaranthe, who also released an album in 2024. Amaranthe's new album was so impactless that I forgot it exists, and I was excited by One Morning Left providing multiple future albums of electricity, captivated by the verve of this energy drink of an album. But the time for One Morning Left is over, and sounds like it should've never made it this far.`
     },
     {
       primary: "Rug Island",
       secondary: "Bluey",
-      additionalText: `I have all three vinyls for all three Bluey albums, including this one, in my collection. This new one ranks second-best in the collection, ranking lower than the excellent first album but higher than the sugar-rush effectiveness of _Dance Mode!_. The adapations and expansions to songs from the various episodes continues to be truly winning, as favorite tunes and memories get bigger and better, giving ample opporunity to showcase the top-tier songwriting and musicianship. Just like the show, and like the titular "Rug Island" episode, this album has playfulness, fun, and creativity, but also plenty of warmth. If this is the last album for the TV show – lead writer Joe Brumm is finishing his _Bluey_ involvement with a movie, leaving room for a movie album, perhaps – it's a great one to go out on.`
+      additionalText: `I have all three vinyls for all three Bluey albums, including this one, in my collection. This new one ranks second-best in the collection, ranking lower than the excellent first album but higher than the sugar-rush effectiveness of _Dance Mode!_ The adapations and expansions to songs from the various episodes continues to be truly winning, as favorite tunes and memories get bigger and better, giving ample opporunity to showcase the top-tier songwriting and musicianship. Just like the show, and like the [titular "Rug Island" episode](https://www.youtube.com/watch?v=91ACUGnqVOE), this album has playfulness, fun, and creativity, but also plenty of warmth. If this is the last album for the TV show – lead writer Joe Brumm is finishing his _Bluey_ involvement with a movie, leaving room for a movie album, perhaps – it's a great one to go out on.`
     },
     {
       primary: "Wheels Within Wheels",
       secondary: "Meer",
-      additionalText: `It was the single "Golden Circle", one of my favorite songs of 2024, captured my interest for the subsequent LP. XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX`
+      additionalText: `The single "Golden Circle", one of my favorite songs of 2024, is what attracted me to the LP and the band itself. The album made the rounds on the progressive and metal communities as "pop for prog fans," which is probably right but also selling the album short. These Norwegians put together one heck of a smart, savvy pop album, full of soaring sequences but depth and XXXXXXXXXXXXXXXXXXXXXXXX`
     },
     {
       primary: "Where Gods Fear To Speak",
@@ -84,12 +84,12 @@ export default {
     {
       primary: "Solemn",
       secondary: "In Vain",
-      additionalText: `Among words used to describe metal albums, especially albums wide in scope and with a large dynamic sound, there is no word more overused than "epic." I've seen the word used to describe this beefy block of death metal, an chock album of coarse walls of guitars and growls, pierced with clean vocals to balance the sludge, like sunlight breaking through storm clouds. And you know what? It's pretty epic. The album just feels _heavy_, both musically and conceptually. Each listen left a lasting impression on me, like I'd witnessed a landscape that was grim and cheerless but still beautiful. I don't dip my toes into the darker metal realms much, but with albums like this one, I'm starting to realize I may need to dive in.`
+      additionalText: `Among words used to describe metal albums, especially albums wide in scope and with a large dynamic sound, there is no word more overused than "epic." I've seen the word used to describe this beefy block of death metal, an album chock full of coarse walls of guitars and growls, pierced with clean vocals to balance the sludge, like sunlight breaking through storm clouds. And you know what? It's pretty epic. The album just feels _heavy_, both musically and conceptually. Each listen left a lasting impression on me, like I'd witnessed a landscape that was grim and cheerless but still beautiful. I don't dip my toes into the darker metal realms much, but with albums like this one, I realize I'm missing out.`
     },
     {
       primary: "Karma",
       secondary: "Myrath",
-      additionalText: ``
+      additionalText: `Now this is a beautiful slab of big, earnest, symphonic-esque prog metal, though this Tunisian band calls it "blazing desert metal," which sounds way better. A lot of symphonic metal bands do symphonic elements, and they do metal elements, but do not do a good job of combining those elements. And when done poorly, the music sounds labored, contrived, and bloated. But when done well, as in the case of _Karma_, the musical landscape is bold and luxurious with a sweeping breadth of sound. Myrath plays _big_ on this album, and the result has all the bravado and vigor of a glorious desert-sands adventure.`
     },
     {
       primary: "Charcoal Grace",
