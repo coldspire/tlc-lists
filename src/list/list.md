@@ -60,7 +60,9 @@ eleventyComputed:
 <section class="list__container">
     <ul class="list">
     {%- for item in suppList.items -%}
-    <li class="list__item item-exclusion">
+    <li class="list__item item-supplemental" 
+        {% if suppList.itemMarker %} style="--supplemental-item-marker: '{{ suppList.itemMarker }} ';"{% endif %}
+    >
         <div class="list__item__container">
             <div data-words-box data-item-essential>
                 <p class="text--primary">{{ item.primary }}</p>
