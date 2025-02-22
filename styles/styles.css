@@ -123,9 +123,9 @@ body > * + * {
 	margin-block-start: 0.5rem;
 }
 
-.item-exclusion::marker {
+.item-supplemental::marker {
 	font-size: var(--secondary-size);
-	content: '⛔ ';
+	content: var(--supplemental-item-marker, '• ');
 }
 
 [data-item-essential] {

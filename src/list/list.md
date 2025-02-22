@@ -44,15 +44,14 @@ eleventyComputed:
     </ol>
 </section>
 
-{%- if list.exclusions -%}
+{% if list.supplements %}
+{% for suppList in list.supplements %}
 
-{% assign exclusions = list.exclusions %}
+<h2>{{ suppList.name }}</h2>
 
-<h2>Exclusions</h2>
-
-{%- if exclusions.description -%}
+{%- if suppList.description -%}
 <section class="description">
-    {%- for line in exclusions.description -%}
+    {%- for line in suppList.description -%}
     {{ line | renderContent: "md" }}
     {%- endfor -%}
 </section>
@@ -60,8 +59,10 @@ eleventyComputed:
 
 <section class="list__container">
     <ul class="list">
-    {%- for item in exclusions.items -%}
-    <li class="list__item item-exclusion">
+    {%- for item in suppList.items -%}
+    <li class="list__item item-supplemental" 
+        {% if suppList.itemMarker %} style="--supplemental-item-marker: '{{ suppList.itemMarker }} ';"{% endif %}
+    >
         <div class="list__item__container">
             <div data-words-box data-item-essential>
                 <p class="text--primary">{{ item.primary }}</p>
@@ -75,7 +76,9 @@ eleventyComputed:
     {%- endfor -%}
     </ul>
 </section>
-{%- endif -%}
+
+{% endfor %}
+{% endif %}
 
 <footer>
     <a href="/lists/">Back to index</a>
