@@ -112,41 +112,51 @@ export default {
       additionalText: `An album of non-stop no-nonsense riffs and grooves, featuring the usual high-falutin' concepts for songwriting such as, uh, _Porco Rosso_, _Mad Max: Fury Road_, and _Face/Off_. Complete unabashed fun – you can imagine the giant grins of the musicians as they blast through track after track. Though I'm not typically hooked by adjective-less metal – no power, no death, not even any thrash, just capital-M Metal – this one has a speed and joy that hooks deep.`
     }
   ],
-  exclusions: {
-    description: [
-      `A batch of albums that notably didn't make the cut as a "top" album.`
-    ],
-    items: [
-      {
-        primary: "Beaver",
-        secondary: "Dirty Loops",
-        additionalText: `A super-tight five songs from a band that hooks me more everytime I hear new stuff. I decided not to include it due to the EP nature of the release – putting it against a LP worth of material just didn't seem fair. `
-      },
-      {
-        primary: "Eviscerate",
-        secondary: "Eidola",
-        additionalText: `After the early-February release of _Eviscerate_ and its blistering single _No Weapon Formed May Prosper_, my most-listened-to song of 2024, I was convinced this rage-and-anger concept would coast into the top-albums list by year's end. Much to my surprise, when I revisited _Eviscerate_ at the end of the year, while I still found the first half the LP sharp and relentless as ever, the second half of the album repeatedly failed to keep my attention. An album that's only half killer is, well, not much of an album. Though a disappointment for this list, _Eviscerate_ still has a lot to enjoy, particularly in that scorching first half and the final full-length tune "Golgotha Compendium: Fifth Temple," a bookend that demonstrates Eidola can even play a bit in the progressive realm.`
-      },
-      {
-        primary: "The Last Will and Testament",
-        secondary: "Opeth",
-        "additionalText": "I've heard this is the band's best in a decade-plus, but so far I've almost completely missed out on it, giving it only one spin at the end of 2024. Maybe it'll end up on the best of 2025 list."
-      },
-      {
-        primary: "The Surface (Deluxe&nbsp;Edition)",
-        secondary: "Beartooth",
-        additionalText: `A bit pop, a bit metalcore, a bit Andrew W.K. A lot of fun but overstays its welcome by half an album. If "The Surface" was an EP of my favorites, it would easily be a top-albums list (which, really, can be said for a lot of albums). Still, this album brought me the bright and bold "ATTN," an eleventh-hour favorite song of the year.`
-      },
-      {
-        primary: "An Ocean Without A Shore",
-        secondary: "Weather Systems",
-        additionalText: "This one saddens me. This album, Danny Cavanagh's return to album-making after the collapse of Anathema and the subsequent precarious battle against the dark winter of severe mental illness, was easily in my top-three anticipated albums of the year. And yet it illicits almost no feeling out of me at all, exactly the opposite of what Anathema could bring forth song after song, album after album. I very much look forward to see what Dan can do next as he continues his recovery and builds his career back up. But as for this inaugral release, I feel totally disconnected from it."
-      },
-      {
-        "primary": "Yesterwynde",
-        secondary: "Nightwish",
-        "additionalText": "I had given up on this band about two albums ago, due to a plodding album release cycle and songwriting that trended towards bloated orchestration and main man Tuomas' definciencies. Which is a bit sad, because Nightwish was one of the original bands to get me into power metal − and really, got me into metal as a whole, broadening my musical universe to this day − in the first place. So I was encouraged that Yesterwynde almost brought me back into the fold, the first time since 2011's Imaginaerum. Alas, it didn't win out against the other power-metal-ful releases of the year. But it does give me hope that Nightwish's next release will bring me back even closer to where it all started."
-      }
-    ]
-  }
+  supplements: [
+    {
+      name: "Honorable Mentions",
+      description: [
+        `A batch of albums that just didn't make the cut but still held some esteem this year.`
+      ],
+      items: [
+        {
+          primary: "Beaver",
+          secondary: "Dirty Loops",
+          additionalText: `A super-tight five songs from a band that hooks me more everytime I hear new stuff. I decided not to include it due to the EP nature of the release – putting it against a LP worth of material just didn't seem fair. `
+        },
+        {
+          primary: "Eviscerate",
+          secondary: "Eidola",
+          additionalText: `After the early-February release of _Eviscerate_ and its blistering single _No Weapon Formed May Prosper_, my most-listened-to song of 2024, I was convinced this rage-and-anger concept would coast into the top-albums list by year's end. Much to my surprise, when I revisited _Eviscerate_ at the end of the year, while I still found the first half the LP sharp and relentless as ever, the second half of the album repeatedly failed to keep my attention. An album that's only half killer is, well, not much of an album. Though a disappointment for this list, _Eviscerate_ still has a lot to enjoy, particularly in that scorching first half and the final full-length tune "Golgotha Compendium: Fifth Temple," a bookend that demonstrates Eidola can even play a bit in the progressive realm.`
+        },
+        {
+          primary: "The Surface (Deluxe&nbsp;Edition)",
+          secondary: "Beartooth",
+          additionalText: `A bit pop, a bit metalcore, a bit Andrew W.K. A lot of fun but overstays its welcome by half an album. If "The Surface" was an EP of my favorites, it would easily be a top-albums list (which, really, can be said for a lot of albums). Still, this album brought me the bright and bold "ATTN," an eleventh-hour favorite song of the year.`
+        },
+        {
+          "primary": "Yesterwynde",
+          secondary: "Nightwish",
+          "additionalText": "I had given up on this band about two albums ago, due to a plodding album release cycle and songwriting that trended towards bloated orchestration and main man Tuomas' definciencies. Which is a bit sad, because Nightwish was one of the original bands to get me into power metal − and really, got me into metal as a whole, broadening my musical universe to this day − in the first place. So I was encouraged that Yesterwynde almost brought me back into the fold, the first time since 2011's Imaginaerum. Alas, it didn't win out against the other power-metal-ful releases of the year. But it does give me hope that Nightwish's next release will bring me back even closer to where it all started."
+        }
+      ]
+    },
+    {
+      name: "Notable Misses",
+      description: "These albums were anticipated but ended up as a disappointment for one reason or another.",
+      items: [
+        {
+          primary: "An Ocean Without A Shore",
+          secondary: "Weather Systems",
+          additionalText: "This one saddens me. This album, Danny Cavanagh's return to album-making after the collapse of Anathema and the subsequent precarious battle against the dark winter of severe mental illness, was easily in my top-three anticipated albums of the year. And yet it illicits almost no feeling out of me at all, exactly the opposite of what Anathema could bring forth song after song, album after album. I very much look forward to see what Dan can do next as he continues his recovery and builds his career back up. But as for this inaugral release, I feel totally disconnected from it."
+        },
+        {
+          primary: "The Last Will and Testament",
+          secondary: "Opeth",
+          "additionalText": "I've heard this is the band's best in a decade-plus, but so far I've almost completely missed out on it, giving it only one spin at the end of 2024. Maybe it'll end up on the best of 2025 list."
+        }
+
+      ]
+    }
+  ]
 };
