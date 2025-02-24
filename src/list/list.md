@@ -29,7 +29,12 @@ eleventyComputed:
 
     <ol class="list" {%- if list.isCountdown -%} reversed {%- endif -%}>
     {%- for item in listItems -%}
+    {% if list.isCountdown %}
+    {% assign itemIndex = forloop.rindex %}
+    {% else %}
     {% assign itemIndex = forloop.index %}
+    {% endif %}
+
     <li class="list__item">
         <div class="list__item__container">
             <div data-words-box data-item-essential>
