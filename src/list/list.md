@@ -29,10 +29,13 @@ eleventyComputed:
 
     <ol class="list" {%- if list.isCountdown -%} reversed {%- endif -%}>
     {%- for item in listItems -%}
+    {% assign itemIndex = forloop.index %}
     <li class="list__item">
         <div class="list__item__container">
             <div data-words-box data-item-essential>
-                <p class="text--primary">{{ item.primary }}</p>
+                <p class="text--primary" id="{{ itemIndex }}">
+                    <a href="#{{ itemIndex }}">{{ item.primary }}</a>
+                </p>
                 <p class="text--secondary">{{ item.secondary }}</p>
             </div>
             <div data-words-box class="text--additional">
@@ -47,6 +50,8 @@ eleventyComputed:
 {% if list.supplements %}
 {% for suppList in list.supplements %}
 
+{% assign listIndex = forloop.index %}
+
 <h2>{{ suppList.name }}</h2>
 
 {%- if suppList.description -%}
@@ -60,10 +65,13 @@ eleventyComputed:
 <section class="list__container">
     <ul class="list">
     {%- for item in suppList.items -%}
+    {% assign itemIndex = forloop.index %}
     <li class="list__item item-supplemental" {% if suppList.itemMarker %} style="--supplemental-item-marker: '{{ suppList.itemMarker }} ';"{% endif %}>
         <div class="list__item__container">
             <div data-words-box data-item-essential>
-                <p class="text--primary">{{ item.primary }}</p>
+                <p class="text--primary" id="supp{{ listIndex }}-{{ itemIndex }}">
+                    <a href="#supp{{ listIndex }}-{{ itemIndex }}">{{ item.primary }}</a>
+                </p>
                 <p class="text--secondary">{{ item.secondary }}</p>
             </div>
             <div data-words-box class="text--additional">
