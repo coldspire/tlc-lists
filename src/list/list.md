@@ -34,7 +34,7 @@ eleventyComputed:
         <div class="list__item__container">
             <div data-words-box data-item-essential>
                 <p class="text--primary" id="{{ itemIndex }}">
-                    <a href="#{{ itemIndex }}">{{ item.primary }}</a>
+                    <a href="#{{ itemIndex }}" class="anchor-link">{{ item.primary }}</a>
                 </p>
                 <p class="text--secondary">{{ item.secondary }}</p>
             </div>
@@ -70,7 +70,7 @@ eleventyComputed:
         <div class="list__item__container">
             <div data-words-box data-item-essential>
                 <p class="text--primary" id="supp{{ listIndex }}-{{ itemIndex }}">
-                    <a href="#supp{{ listIndex }}-{{ itemIndex }}">{{ item.primary }}</a>
+                    <a href="#supp{{ listIndex }}-{{ itemIndex }}" class="anchor-link">{{ item.primary }}</a>
                 </p>
                 <p class="text--secondary">{{ item.secondary }}</p>
             </div>

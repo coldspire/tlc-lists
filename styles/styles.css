@@ -138,3 +138,15 @@ body > * + * {
     --bg-distance: calc(90% + var(--fade-distance));
 	background-image: linear-gradient(to bottom, var(--bg-color) 85%, transparent);
 }
+
+.anchor-link {
+	color: inherit;
+}
+
+.anchor-link {
+	text-decoration: none;
+}
+
+.anchor-link:hover {
+	text-decoration: underline;
+}
