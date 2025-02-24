@@ -52,7 +52,8 @@ eleventyComputed:
 
 {% assign listIndex = forloop.index %}
 
-<h2>{{ suppList.name }}</h2>
+{% assign suppListId = suppList.name | slugify %}
+<h2 id="{{ suppListId }}"><a href="#{{ suppListId }}" class="anchor-link">{{ suppList.name }}</a></h2>
 
 {%- if suppList.description -%}
 <section class="description">
