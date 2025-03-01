@@ -11,7 +11,7 @@ eleventyComputed:
 
 {% assign list = lists[listId] %}
 
-# List: {{ list.title }}
+<h1>List: {{ list.title }}</h1>
 
 <section class="description">
     {%- for line in list.description -%}
@@ -29,10 +29,18 @@ eleventyComputed:
 
     <ol class="list" {%- if list.isCountdown -%} reversed {%- endif -%}>
     {%- for item in listItems -%}
-    <li class="list__item">
+    {% if list.isCountdown %}
+    {% assign itemIndex = forloop.rindex %}
+    {% else %}
+    {% assign itemIndex = forloop.index %}
+    {% endif %}
+
+    <li class="list__item" id="{{ itemIndex }}">
         <div class="list__item__container">
             <div data-words-box data-item-essential>
-                <p class="text--primary">{{ item.primary }}</p>
+                <p class="text--primary">
+                    <a href="#{{ itemIndex }}" class="anchor-link">{{ item.primary }}</a>
+                </p>
                 <p class="text--secondary">{{ item.secondary }}</p>
             </div>
             <div data-words-box class="text--additional">
@@ -47,7 +55,10 @@ eleventyComputed:
 {% if list.supplements %}
 {% for suppList in list.supplements %}
 
-<h2>{{ suppList.name }}</h2>
+{% assign listIndex = forloop.index %}
+
+{% assign suppListId = suppList.name | slugify %}
+<h2 id="{{ suppListId }}"><a href="#{{ suppListId }}" class="anchor-link">{{ suppList.name }}</a></h2>
 
 {%- if suppList.description -%}
 <section class="description">
@@ -60,12 +71,13 @@ eleventyComputed:
 <section class="list__container">
     <ul class="list">
     {%- for item in suppList.items -%}
-    <li class="list__item item-supplemental" 
-        {% if suppList.itemMarker %} style="--supplemental-item-marker: '{{ suppList.itemMarker }} ';"{% endif %}
-    >
+    {% assign itemIndex = forloop.index %}
+    <li class="list__item item-supplemental" id="supp{{ listIndex }}-{{ itemIndex }}" {% if suppList.itemMarker %} style="--supplemental-item-marker: '{{ suppList.itemMarker }} ';"{% endif %}>
         <div class="list__item__container">
             <div data-words-box data-item-essential>
-                <p class="text--primary">{{ item.primary }}</p>
+                <p class="text--primary">
+                    <a href="#supp{{ listIndex }}-{{ itemIndex }}" class="anchor-link">{{ item.primary }}</a>
+                </p>
                 <p class="text--secondary">{{ item.secondary }}</p>
             </div>
             <div data-words-box class="text--additional">
