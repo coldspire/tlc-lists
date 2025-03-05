@@ -19,7 +19,7 @@ export default {
     {
       primary: "Fym",
       secondary: "Azure",
-      additionalText: `During the 00s, when Luca Turilli and his fellow Italians in Rhapsody were ripping it up and churning out symphonic power metal platinum, I was there for it. Those albums had operatic neo-classical energy as strong as a thousand suns, but you know what they didn't have? A half-decent, compelling fantasy concept, in any regard. Turilli released five LPs and one EP in his "Emerald Sword Saga", and, frankly, only _Dawn of Victory_ had _songs_ with compelling concepts, let alone an entire album reaching any cohesive narrative achievement. Jump ahead a couple decades, after Rhapsody split and rejoined multiple times, and we have this gem of an album by Azure. I'm not going to say I fully get (or enjoy) the story of Fym and the titular character's adventures, but listening to Fym _feels_ like a journey. Between the playful narritive-driven lyrics and the expansive lush music, Fym brings everything to the table and plays with it gleefully.Because of the wonderful music and the exquisite vocal performance of the band lead, a song on Fym reveals bears extra dimensions, like watching a live musical on a stage, where the blocking and acting boosts the music to another level. The world of Fym as created by Azure feels rich and fantastical like no other album I've ever heard.`
+      additionalText: `During the 00s, when Luca Turilli and his fellow Italians in Rhapsody were ripping it up and churning out symphonic power metal platinum, I was there for it. Those albums had operatic neo-classical energy as strong as a thousand suns, but you know what they didn't have? A half-decent, compelling fantasy concept, in any regard. Turilli released five LPs and one EP in his "Emerald Sword Saga", and, frankly, only _Dawn of Victory_ had _songs_ with compelling concepts, let alone an entire album reaching any cohesive narrative achievement. Jump ahead a couple decades, after Rhapsody split and rejoined multiple times, and we have this gem of an album by Azure. I'm not going to say I fully get (or enjoy) the story of Fym and the titular character's adventures, but listening to Fym _feels_ like a journey. Between the playful narritive-driven lyrics and the expansive lush music, Fym brings everything to the table and plays with it gleefully. Because of the wonderful music and the exquisite vocal performance of the band lead, a song on Fym reveals bears extra dimensions, like watching a live musical on a stage, where the blocking and acting boosts the music to another level. The world of Fym as created by Azure feels rich and fantastical like no other album I've ever heard.`
     },
     {
       primary: "Swagger & Stroll Down the Rabbit Hole (2021)",
@@ -39,7 +39,9 @@ export default {
     {
       primary: "Falter, Endure",
       secondary: "Isbjörg",
-      additionalText: `Where the new Weather Systems album, a legacy of the once-mighty Anathema, barely treaded water for me – see the "Exclusions" list below, sadly – this album came out of the clear blue and soared. These Danish "math-stadium rockers," as described by the [official band site](https://www.isbjorg.dk), XXXXXXXXXXXXXXXXXXXX. The single "Solitare" opened the doors to me, with its XXXXXXXXXX and saxophone solos, and the rest of the album XXXXXXXXXX`
+      additionalText: `Where the new Weather Systems album, a legacy of the once-mighty Anathema, barely treaded water for me – see the "Notable Misses" list below – this album came out of the clear blue and flew high. The single "Solitare" opened the doors to me, with its playful-but-somehow-slightly-anxious progression and its saxophone solos, and the rest of the album followed close behind. These Danes describe themselves as "math-stadium rockers," per the [official band site](https://www.isbjorg.dk), which on its face doesn't sound like the greatest listen, right? I mean, is math rock is supposed to be _enjoyable_? Turns out it certainly can be, as Isbjörg prove here, providing an album with technical depth and complexity as well as eminent listenability. If you listen very closely to a _Falter, Endure_ song, you realize how much is going on, how much it changes bar to bar. But then you also realize, these songs are _really_ fun and compelling. _Falter, Endure_ is a terrific journey.
+
+      I also love how much unadorned piano is in the music, an instrument I always love featured in modern rock and metal. Put more piano in your stuff!`
     },
     {
       primary: "Life in the Wires",
@@ -59,7 +61,7 @@ export default {
     {
       primary: "Clear Cold Beyond",
       secondary: "Sonata Arctica",
-      additionalText: `An all-time favorite band soars again with _Clear Cold Beyond_ after hitting the skids with 2019's utterly tepid and forgettable _Talviyö_. Band leader Tony Kakko has mentioned that he takes fault and blame for the progressive and tonal meandering of the band for the past fifteen or so (which wasn't all bad, though Talviyö clearly showed that phase of the band ran out of gas), and this 2024 album was his attempt to get the band back on track. Though I'd never fault a band for trying new things and seeing where the songs take them – bands are made of people, and people change! – Sonata Arctica never really felt wholly comfortable in the many attempts at fitting into a progressive groove. So when Clear Cold Beyond trades prog for power, the foundation sounds stronger than it has in a long time, bringing forth a rollicking batch of power metal bangers. And since this album has a bit of a feel of these Finnish lads finding their feet again, I'm very much looking forward to what they do next.`
+      additionalText: `An all-time favorite band soars again with _Clear Cold Beyond_ after hitting the skids with 2019's utterly tepid and forgettable _Talviyö_. Band leader Tony Kakko has mentioned that he takes fault and blame for the progressive and tonal meandering of the band for the past _fifteen years_  (which wasn't all bad, though Talviyö clearly showed that phase of the band ran out of gas), and this 2024 album was his attempt to get the band back on track. Though I'd never fault a band for trying new things and seeing where the songs take them – bands are made of people, and people change! – Sonata Arctica never really felt wholly comfortable in the many attempts at fitting into a progressive groove. So when Clear Cold Beyond trades prog for power, the foundation sounds stronger than it has in a long time, bringing forth a rollicking batch of power metal bangers. And since this album has a bit of a feel of these Finnish lads finding their feet again, I'm very much looking forward to what they do next.`
     },
     {
       primary: "Neon Inferno",
@@ -74,12 +76,11 @@ export default {
     {
       primary: "Wheels Within Wheels",
       secondary: "Meer",
-      additionalText: `The single "Golden Circle", one of my favorite songs of 2024, is what attracted me to the LP and the band itself. The album made the rounds on the progressive and metal communities as "pop for prog fans," which is probably right but also selling the album short. These Norwegians put together one heck of a smart, savvy pop album, full of soaring sequences but depth and XXXXXXXXXXXXXXXXXXXXXXXX`
+      additionalText: `The single "Golden Circle", one of my favorite songs of 2024, is what attracted me to the LP and the band itself. The album made the rounds on the progressive and metal communities as "pop for prog fans," which is probably right but also selling the album short. These Norwegians gave us one heck of a smart, savvy pop album: it can soar as well as it can play low and somber, bright and brisk as well as deep and complementative. When listening to this Meer album, I'm always a bit on the edge of my seat, attentive to where it takes me next.`
     },
     {
       primary: "Where Gods Fear To Speak",
-      secondary: "Oceans of Slumber",
-      additionalText: ``
+      additionalText: `I'm not much of a doom metal listener, but this seems like a pretty good album, just going by the usual measures. But really brings me in here are the vocals, which takes it from a pretty good album to a _really_ good album. The lead vocalist of this band has the huge power and emotive strength to draw colors out of the doom-metal wall of sound the typical doom-y demonic growling cannot even hope to evoke. And because the singing is forward in the mix, layered like vanilla frosting on a black cake of death, the vocalist and her gorgeous voice becomes the vanguard of the progressive sludge performed by the rest of the band. The result is a album that simultaneously lives above the clouds and beneath the swampy mire.`
     },
     {
       primary: "Solemn",
@@ -99,7 +100,7 @@ export default {
     {
       primary: "Charismatic Leaders",
       secondary: "Wheel",
-      additionalText: `An album I think about when thinking about the structure and composition of _Charismatic Leaders_ is _Blood_ by OSI: both albums have a clinical precision and tightness. While _Blood_ is certainly more adventurous and wider in scope, both in composition and concepts (and, as an aside, is one my favorite albums ever), this latest album by Wheel has the same XXXXXXXXXXXXXXXXXX`
+      additionalText: `An album I think about when thinking about the structure and composition of _Charismatic Leaders_ is _Blood_ by OSI: both albums have a clinical precision. While _Blood_ is certainly more adventurous and wider in scope, both in composition and concepts (and, as an aside, is one my favorite albums ever), this latest album by Wheel has the same meticulous tightness.`
     },
     {
       primary: "Les Chants de l'Aurore",
