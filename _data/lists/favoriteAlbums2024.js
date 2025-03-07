@@ -14,54 +14,68 @@ export default {
     {
       primary: "A Boat on the Sea (2019)",
       secondary: "Moron Police",
-      additionalText: `For some reason the weekly-curated "New Music" playlist on Apple Music brought me "The Dog Song" off this five-year-old album, and, boy, am I sure glad it did. That lone curation opened up a album of pure tight progressive-rock joy completely out of the blue. I listened to the album at least a dozen times digitally before importing the vinyl from a little house in the Netherlands countryside, and then I kept that platter spinning at least another dozen times. This is one of those albums that when I think about it, I want to listen to it immediately.`
+      additionalText: `A curated "New Music" playlist on Apple Music brought me "The Dog Song" off this five-year-old album, and, boy, am I sure glad it did. That lone pick brought me a album of pure tight progressive-rock joy, a completely new album by a completely new band. _A Boat on the Sea_ was the only album I spun for at least the next week, at least a couple dozen times. And then I imported the vinyl from a little house in the Netherlands countryside, and I kept that platter spinning at least another dozen times. This is one of those albums that when I think about it, I want to listen to it immediately.`
     },
     {
       primary: "Fym",
       secondary: "Azure",
-      additionalText: `During the 00s, when Luca Turilli and his fellow Italians in Rhapsody were ripping it up and churning out symphonic power metal platinum, I was there for it. Those albums had operatic neo-classical energy as strong as a thousand suns, but you know what they didn't have? A half-decent, compelling fantasy concept, in any regard. Turilli released five LPs and one EP in his "Emerald Sword Saga", and, frankly, only _Dawn of Victory_ had _songs_ with compelling concepts, let alone an entire album reaching any cohesive narrative achievement. Jump ahead a couple decades, after Rhapsody split and rejoined multiple times, and we have this gem of an album by Azure. I'm not going to say I fully get (or enjoy) the story of Fym and the titular character's adventures, but listening to Fym _feels_ like a journey. Between the playful narritive-driven lyrics and the expansive lush music, Fym brings everything to the table and plays with it gleefully. Because of the wonderful music and the exquisite vocal performance of the band lead, a song on Fym reveals bears extra dimensions, like watching a live musical on a stage, where the blocking and acting boosts the music to another level. The world of Fym as created by Azure feels rich and fantastical like no other album I've ever heard.`
+      additionalText: `During the 2000s, when Luca Turilli and his fellow Italians in Rhapsody were bellowing out symphonic power metal platinum with a frenzy, I was _there_ for it. Those bombastic sword-and-sorcery productions had operatic neo-classical energy as strong as a thousand suns. But you know what they didn't have? A half-decent, compelling fantasy concept, in any regard. Turilli released five LPs and one EP in his "Emerald Sword Saga", and, frankly, only _Dawn of Victory_ had _songs_ with compelling concepts, let alone an entire album reaching any cohesive narrative achievement. Which, really, was _fine_. That brand of power metal was very powerful and very metal, and thus appetites were satiated.
+      
+      Jump ahead a couple decades, after Rhapsody split and rejoined multiple times, and we have this gem of an album by Azure. I'm not going to say I fully get (or enjoy) the story of Fym and the titular character's adventures, but listening to Fym _feels_ like a truly fantastical journey. Between the playful narrative-driven lyrics and the expansive lush compositions, Fym brings everything to the table and plays with it gleefully. Because of the wonderful music and the exquisite vocal performance of the band lead, any song on Fym bears extra dimensions, like watching a live musical on a stage, where the acting takes the music to another level. The world of Fym as created by Azure feels rich and fantastical like no other album – or, really, like few concepts from any medium – I've ever heard.`
     },
     {
       primary: "Swagger & Stroll Down the Rabbit Hole (2021)",
       secondary: "Diablo Swing Orchestra",
-      additionalText: `Few albums are a pure delightful showcase like this one. Not only is the musicianship top-notch, but the effortless playfulness, confidence, and variety is unmatched by any of my other picks. To think you have a handle on _Swagger & Stroll_ just means you're due for another listen – there are multitudes here to abosrb and relish. I mean, the first five tracks include a Chicano-rock song, a electro-gypsy-swing song, and a Celtic pop-punk song, with good amounts of progressive metal and soaring pop mixed in. And there are about ten more songs after that, during which the momentum and joy continue unabated. An utterly extrodinary album, one unlike anything I've ever heard.`
+      additionalText: `Few albums are a pure delightful showcase like this one. Not only is the musicianship top-notch, but the effortless combination of playfulness, confidence, and variety is seemingly peerless. When I think I have a good handle on _Swagger & Stroll_, that just means I'm due for another listen, as multitudes can be uncovered to absorb and relish. I mean, the first five tracks include a Chicano-rock song, a electro-gypsy-swing song, and a Celtic pop-punk song, with good amounts of progressive metal and soaring pop mixed in. And there are about ten more songs after that, during which the momentum and joy continue unabated. An utterly extraordinary album, one unlike any other.`
     },
     {
       primary: "Mannequin",
       secondary: "Kyros",
-      additionalText: `Little did I know that my favorite Frost* album of the year would be by a totally different group. The Frost*-y influences here are clear, but so is the freshness, playfulness, and inventiveness that comes with every album by the original blokes. _Mannequin_ was my introduction to Kyros, and the collosal listening experience reminds me of when I first listened to _also_-English prog masters Haken and their major effort _The Mountain_: I've heard something spectacular, and I'll be keeping up on this band for a long, long time.`
+      additionalText: `Little did I know that my favorite Frost* album of the year would be by a different group. The Frost*-y influences here are worn on the band's sleeve, including freshness, playfulness, and inventiveness in spades. _Mannequin_ was my introduction to Kyros; the delightful and demanding listening experience reminded me of the first listen of _also_-English prog masters Haken and their major effort _The Mountain_. Which is to say, I've heard something spectacular.`
     },
     {
       primary: "The Likes of Us ",
       secondary: "Big Big Train",
-      additionalText: `This album was my most-listened-to album in 2024. After its March 1st release, I ordered the vinyl set based on how many times I'd put on the "Miramare" single alone; after the arrival, for a couple weeks I started every work morning by spinning this album from beginning to end. I haven't always sat in on Big Big Train's hedgerows and pastures English-swaddled progressive rock (though I might count 2019's Grand Tour on the long list of all-time favorites). But this album has a folksy, er, richness that really hit the spot in 2024.`
+      additionalText: `My history with Big Big Train is fairly spotty, giving only the occasional album more than a couple spins – though I count 2019's Grand Tour on the long list of all-time favorites – but the inaugural single "Miramare" clued me into something special happening on this new release. "Miramare" alone lit the hype fires strong enough that I pre-ordered the album, something I try to resist – a new vinyl that sees little play is a costly mistake – but I had a good feeling. 
+      
+      After the arrival of the LPs, I quickly and easily developed a routine to start every work morning by spinning the album from beginning to end, enjoying it thoroughly, _especially_ the non-single version of "Miramare." This continued effortlessly for a couple weeks: I'd come into the work office, put that first platter on the player, and spin all four sides, through and through. In the end, _The Likes of Us_ was my most-listened album of 2024.
+      
+      So, I'm glad that for once my compulsive buying paid off with an album full of folksy richness, one that really hit the spot in 2024.`
     },
     {
       primary: "Falter, Endure",
       secondary: "Isbjörg",
-      additionalText: `Where the new Weather Systems album, a legacy of the once-mighty Anathema, barely treaded water for me – see the "Notable Misses" list below – this album came out of the clear blue and flew high. The single "Solitare" opened the doors to me, with its playful-but-somehow-slightly-anxious progression and its saxophone solos, and the rest of the album followed close behind. These Danes describe themselves as "math-stadium rockers," per the [official band site](https://www.isbjorg.dk), which on its face doesn't sound like the greatest listen, right? I mean, is math rock is supposed to be _enjoyable_? Turns out it certainly can be, as Isbjörg prove here, providing an album with technical depth and complexity as well as eminent listenability. If you listen very closely to a _Falter, Endure_ song, you realize how much is going on, how much it changes bar to bar. But then you also realize, these songs are _really_ fun and compelling. _Falter, Endure_ is a terrific journey.
+      additionalText: `Where the new Weather Systems album, a legacy of the once-mighty Anathema, barely treaded water for me – [see it in the "Notable Misses" list below](#supp2-1) – this album came out of the clear blue and flew high on white-and-black wings. The single "Solitare" opened the doors to me, with its playful-but-somehow-slightly-anxious progression and its saxophone solos, and the rest of the album followed close behind. 
+      
+      These Danes describe themselves as "math-stadium rockers," per the [official band site](https://www.isbjorg.dk), which on its face doesn't sound like the greatest listen, right? I mean, is math rock is supposed to be _enjoyable_? Turns out it certainly can be, as Isbjörg prove here, providing an album with technical depth and complexity as well as eminent listenability. If you listen very closely to a _Falter, Endure_ song, you realize how much is going on, how much it changes bar to bar. But then you also realize, these songs are _really_ fun and compelling. _Falter, Endure_ is a terrific journey.
 
       I also love how much unadorned piano is in the music, an instrument I always love featured in modern rock and metal. Put more piano in your stuff!`
     },
     {
       primary: "Life in the Wires",
       secondary: "Frost*",
-      additionalText: `One of the many great things about Frost*, a band I've followed since their landmark prog release _Milliontown_ in 2006, is that a new release means an album that both sounds like Frost* while it attempts a whole batch of things new to the band. So for _Life in the Wires_, the prominent new wrinkle is a concept album: a science-fiction story about the search for a mysterious broadcast heard through a hardware transistor radio in a world where such things, radios and over-the-air transmissions, shouldn't exist. _Life_ sprawls a bit more than the usual Frost* LP, but it also drives ahead more effectively too. And so Frost* continues their streak of albums that know when to soar and when to stay firmly grounded, bouyed by the exceptional talent that knows the difference between playing big and just sounding big. And, man, I love a good concept album.`
+      additionalText: `One of the many great things about Frost*, a band I've followed since their landmark prog release _Milliontown_ in 2006, is that a new release means an album that both sounds like Frost* while it attempts a whole batch of things new to the band. So for _Life in the Wires_, the prominent new wrinkle is a concept album: a science-fiction story about the search for a mysterious broadcast heard through a hardware transistor radio in a world where such things, radios and over-the-air transmissions, shouldn't exist. _Life_ sprawls a bit more than the usual Frost* LP, but it also drives ahead more effectively too.
+      
+      And so Frost* continues their streak of albums that know when to play it huge and when to stay firmly grounded, all by the exceptional talent that knows the difference between playing big and just sounding big. And I love a good concept album.`
     },
     {
       primary: "Mile Marker Zero",
       secondary: "Coming of Age",
-      additionalText: `We may never get a 00's-era Porcupine Tree album again, but the variety and confidence in this progressive album by Mile Marker Zero makes me feel a lot better about the dismal chances of a _Deadwing 2_. This band has been in my periphery for several years, and when I finally set my sights on _Coming of Age_, I was finally brought in. Plenty of strong sounds here; the title track is a particular favorite.`
+      additionalText: `We may never get a 00's-era Porcupine Tree album again, but the variety and confidence in this fine stash of prog rock album by Mile Marker Zero makes me feel a lot better about the dismal chances of a _Deadwing 2_. This band has been in my periphery for several years, and when _Coming of Age_ beckoned me into its corner of the progressive universe, XXXXXXXXXXXXXXXX`
     },
     {
       primary: "The Skies Above Eternity",
       secondary: "Fellowship",
-      additionalText: `Fellowship released their first album _The Saberlight Chronicles_ in 2022, and that batch of power metal was a once-in-a-decade level release. If the band had decided to hang it up after that stellar freshman release, I would've been disappointed but understood completely. But here we are, two years later, and this young group of goofy English metallers brought us a new platter of happy power metal tunes. _The Skies Above Eternity_ isn't up to the level of _The Saberlight Chronicles_, but, boy, it is still a heck of a power metal album. Any other band would be happy and grateful to have this lone album in their back catalog; for Fellowship, they have it _and_ one even better. The sky's the limit with these boys.`
+      additionalText: `Fellowship released their first album _The Saberlight Chronicles_ in 2022, and that batch of power metal was a once-in-a-decade power-metal event. So if the band had decided to hang it up after that stellar freshman release, I would've been disappointed but understood completely.
+      
+     And yet Fate smiled: two years later this young group of goofy English metallers brought us a new platter of happy power metal tunes. _The Skies Above Eternity_ isn't up to the level of _The Saberlight Chronicles_, but, boy, it is still a heck of a power metal album. Any other band would be happy and grateful to have this lone album in their back catalog; for Fellowship, they have it _and_ one even better. The sky's the limit with these boys.`
     },
     {
       primary: "Clear Cold Beyond",
       secondary: "Sonata Arctica",
-      additionalText: `An all-time favorite band soars again with _Clear Cold Beyond_ after hitting the skids with 2019's utterly tepid and forgettable _Talviyö_. Band leader Tony Kakko has mentioned that he takes fault and blame for the progressive and tonal meandering of the band for the past _fifteen years_  (which wasn't all bad, though Talviyö clearly showed that phase of the band ran out of gas), and this 2024 album was his attempt to get the band back on track. Though I'd never fault a band for trying new things and seeing where the songs take them – bands are made of people, and people change! – Sonata Arctica never really felt wholly comfortable in the many attempts at fitting into a progressive groove. So when Clear Cold Beyond trades prog for power, the foundation sounds stronger than it has in a long time, bringing forth a rollicking batch of power metal bangers. And since this album has a bit of a feel of these Finnish lads finding their feet again, I'm very much looking forward to what they do next.`
+      additionalText: `An all-time favorite band soars again with _Clear Cold Beyond_ after hitting the skids with 2019's utterly tepid and forgettable _Talviyö_. Band leader Tony Kakko has mentioned that he takes fault and blame for the progressive and tonal meandering of the band for the past _fifteen years_  (which wasn't all bad, though Talviyö clearly showed that phase of the band ran out of gas), and this 2024 album was his attempt to get the band back on track. Though I'd never fault a band for trying new things and seeing where the songs take them – bands are made of people, and people change! – Sonata Arctica never really felt wholly comfortable in the many attempts at fitting into a progressive groove.
+      
+      So when Clear Cold Beyond trades prog for power, the foundation sounds stronger than it has in a long time, bringing forth a rollicking batch of power metal bangers. And since this album has a bit of a feel of these Finnish lads finding their feet again, I'm very much looking forward to what they do next.`
     },
     {
       primary: "Neon Inferno",
@@ -71,12 +85,12 @@ export default {
     {
       primary: "Rug Island",
       secondary: "Bluey",
-      additionalText: `I have all three vinyls for all three Bluey albums, including this one, in my collection. This new one ranks second-best in the collection, ranking lower than the excellent first album but higher than the sugar-rush effectiveness of _Dance Mode!_ The adapations and expansions to songs from the various episodes continues to be truly winning, as favorite tunes and memories get bigger and better, giving ample opporunity to showcase the top-tier songwriting and musicianship. Just like the show, and like the [titular "Rug Island" episode](https://www.youtube.com/watch?v=91ACUGnqVOE), this album has playfulness, fun, and creativity, but also plenty of warmth. If this is the last album for the TV show – lead writer Joe Brumm is finishing his _Bluey_ involvement with a movie, leaving room for a movie album, perhaps – it's a great one to go out on.`
+      additionalText: `I have all three vinyls for all three Bluey albums, including this one, in my collection. This new one ranks second-best in the collection, ranking lower than the excellent first album but better than the sugar-rush effectiveness of _Dance Mode!_ The adaptations and expansions to songs from the various episodes continues to be truly winning, as favorite tunes and memories get bigger and better, giving ample opportunity to showcase the top-tier songwriting and musicianship. Just like the show, and like the [titular "Rug Island" episode](https://www.youtube.com/watch?v=91ACUGnqVOE), this album has playfulness, fun, and creativity, but also plenty of warmth. If this is the last album for the TV show – lead writer Joe Brumm is finishing his _Bluey_ involvement with a movie, leaving room for a movie album, perhaps – it's a great one to go out on.`
     },
     {
       primary: "Wheels Within Wheels",
       secondary: "Meer",
-      additionalText: `The single "Golden Circle", one of my favorite songs of 2024, is what attracted me to the LP and the band itself. The album made the rounds on the progressive and metal communities as "pop for prog fans," which is probably right but also selling the album short. These Norwegians gave us one heck of a smart, savvy pop album: it can soar as well as it can play low and somber, bright and brisk as well as deep and complementative. When listening to this Meer album, I'm always a bit on the edge of my seat, attentive to where it takes me next.`
+      additionalText: `The single "Golden Circle," one of my favorite songs of 2024, is what attracted me to the LP and the band itself. The album made the rounds on the progressive and metal communities as "pop for prog fans," which is probably right but also selling the band and album short. These Norwegians gave us one heck of a smart, savvy pop album: it can XXXXXXXXXX as well as it can play low and somber, bright and brisk as well as deep and complementative. When listening to this Meer album, I'm always a bit on the edge of my seat, attentive to where it takes me next.`
     },
     {
       primary: "Where Gods Fear To Speak",
@@ -85,27 +99,31 @@ export default {
     {
       primary: "Solemn",
       secondary: "In Vain",
-      additionalText: `Among words used to describe metal albums, especially albums wide in scope and with a large dynamic sound, there is no word more overused than "epic." I've seen the word used to describe this beefy block of death metal, an album chock full of coarse walls of guitars and growls, pierced with clean vocals to balance the sludge, like sunlight breaking through storm clouds. And you know what? It's pretty epic. The album just feels _heavy_, both musically and conceptually. Each listen left a lasting impression on me, like I'd witnessed a landscape that was grim and cheerless but still beautiful. I don't dip my toes into the darker metal realms much, but with albums like this one, I realize I'm missing out.`
+      additionalText: `Among words used to describe metal albums, especially albums big in scope and with a large XXXXXXXXX, there is no word more overused than "epic." And yet I've seen that word used to describe this beefy block of death metal, an album chock full of coarse walls of guitars and growls that pierces through the mire with clean vocals, balancing the sludge.
+      
+      And you know what? It's pretty epic. The album just feels _heavy_, both musically and conceptually, and yet the addition of the clean vocals XXXXXXXXXXXXXXX. Each listen left a lasting impression on me, like I'd witnessed a landscape that was grim and cheerless but still beautiful. I don't dip my toes into the darker metal realms much, but with albums like this one, I wonder what else I've been missing.`
     },
     {
       primary: "Karma",
       secondary: "Myrath",
-      additionalText: `Now this is a beautiful slab of big, earnest, symphonic-esque prog metal, though this Tunisian band calls it "blazing desert metal," which sounds way better. A lot of symphonic metal bands do symphonic elements, and they do metal elements, but do not do a good job of combining those elements. And when done poorly, the music sounds labored, contrived, and bloated. But when done well, as in the case of _Karma_, the musical landscape is bold and luxurious with a sweeping breadth of sound. Myrath plays _big_ on this album, and the result has all the bravado and vigor of a glorious desert-sands adventure.`
+      additionalText: `Now this is a beautiful slab of big, earnest, symphonic-esque prog metal. Even better than calling it "prog metal," this Tunisian band calls it "blazing desert metal," which sounds way better. A lot of symphonic metal bands include the symphonic elements, and they of course include the metal elements, but they _do not_ do a good job of combining those elements. When combined done poorly, the music sounds labored, contrived, and bloated. But when done well, as in the case of _Karma_, the musical landscape is bold and luxurious with a sweeping breadth of sound. Myrath plays _big_ on this album, and the result has all the bravado and vigor of a glorious desert-sands adventure.`
     },
     {
       primary: "Charcoal Grace",
       secondary: "Caligula's Horse",
-      additionalText: `The liner notes for _Charcoal Grace_ mention how the band's previous album, _Rise Radiant_, was never fully known by the band by being released at the start of the COVID-19 epidemic, depriving it of tour-provided oxygen from the start. That album had a feeling of boldness, daring and frontier; _Charcoal Grace_, on the heels of its stillborn older sibling, feels like a family trying to find a way forward after a storm destroyed their house. It has strength but also somber realization and open wounds in the midst of recovery. A weighty platter of songs, with "The Stormchaser" being one of my 2024 favorites.`
+      additionalText: `The liner notes for _Charcoal Grace_ mention how the band's previous album, _Rise Radiant_, was never fully known by the band by being released at the start of the COVID-19 epidemic, depriving it of tour-provided oxygen from the start. That album had a feeling of boldness, daring and frontier. _Charcoal Grace_, on the heels of its crib-dead older sibling, feels like the collective finding a way forward after a violent storm destroyed their home. _Charcoal Grace_ has inner strength but also somber realization and open wounds in the midst of recovery. A weighty platter of songs; "The Stormchaser" is one of my 2024 favorites.`
     },
     {
       primary: "Charismatic Leaders",
       secondary: "Wheel",
-      additionalText: `An album I think about when thinking about the structure and composition of _Charismatic Leaders_ is _Blood_ by OSI: both albums have a clinical precision. While _Blood_ is certainly more adventurous and wider in scope, both in composition and concepts (and, as an aside, is one my favorite albums ever), this latest album by Wheel has the same meticulous tightness.`
+      additionalText: `This is an album of meticulous tightness. An other album that comes to mind when thinking about this Wheel album is the album _Blood_ by OSI: both albums have a clinical precision when it comes to the structure and composition of the songs, and the production and separation of the instruments. While _Charismatic Leaders_ may not have the adventurous weirdness of _Blood_, XXXXXXXXXXXXXXXXXX`
     },
     {
       primary: "Les Chants de l'Aurore",
       secondary: "Alcest",
-      additionalText: `Several years ago I saw Alcest live as the opener for an Anathema show, and this post-metal band cemented themselves in my musical history by playing so loud that they caused me permanent hearing damage. (I wore earplugs to concerts both before and after that one. So I had no excuse at the Alcest show.) In 2024, these Frenchies released this fine album that an [Angry Metal Guy reviewer described as evoking late summer](https://www.angrymetalguy.com/alcest-les-chants-de-laurore-review/), and I wouldn't even try to come up with a better comparison. The LP has the embrace of seasonal warmth and the fading light as the colder months approach. It feels like the memories of days in the sun are already beginning to fade. And as the cherry on top, if this was a list of best album art, _Les Chants_ might've won the top spot.`
+      additionalText: `Several years ago I saw Alcest live as the opener for an Anathema show, and this post-metal band cemented themselves in my musical history by playing so loud that they caused me permanent hearing damage. (I wore earplugs to concerts both before and after that one. So I had no excuse at the Alcest show.) 
+      
+      But! In 2024, the same Frenchmen released this fine album, and its quality is such that the past transgressions affecting my chronic health are forgiven. An [Angry Metal Guy reviewer described the album as evoking a feeling of late summer](https://www.angrymetalguy.com/alcest-les-chants-de-laurore-review/), and I don't need to try to come up with a better comparison. This LP has the embrace of lingering seasonal warmth along fading light as the colder months approach. _Les Chants_ feels like the memories of days in the sun are already beginning to fade.`
     },
     {
       primary: "Showdown",
@@ -128,7 +146,7 @@ export default {
         {
           primary: "Eviscerate",
           secondary: "Eidola",
-          additionalText: `After the early-February release of _Eviscerate_ and its blistering single _No Weapon Formed May Prosper_, my most-listened-to song of 2024, I was convinced this rage-and-anger concept would coast into the top-albums list by year's end. Much to my surprise, when I revisited _Eviscerate_ at the end of the year, while I still found the first half the LP sharp and relentless as ever, the second half of the album repeatedly failed to keep my attention. An album that's only half killer is, well, not much of an album. Though a disappointment for this list, _Eviscerate_ still has a lot to enjoy, particularly in that scorching first half and the final full-length tune "Golgotha Compendium: Fifth Temple," a bookend that demonstrates Eidola can even play a bit in the progressive realm.`
+          additionalText: `After the early-February release of _Eviscerate_ and its blistering single _No Weapon Formed May Prosper_, my most-listened-to song of 2024, I was convinced this rage-and-anger concept would coast into the top-albums list by year's end. Much to my surprise, when I revisited _Eviscerate_ at the end of the year, while I still found the first half the LP sharp and relentless as ever, the second half of the album repeatedly failed to keep my attention. An album that's only half killer is, well, not much of an album. Though a disappointment for this list, _Eviscerate_ still has a lot to enjoy, particularly in that scorching first half and the final full-length tune "Golgotha Compendium: Fifth Temple," a bookend that demonstrates Eidola plays perfectly comfortably in the progressive realm.`
         },
         {
           primary: "The Surface (Deluxe&nbsp;Edition)",
@@ -138,7 +156,7 @@ export default {
         {
           "primary": "Yesterwynde",
           secondary: "Nightwish",
-          "additionalText": "I had given up on this band about two albums ago, due to a plodding album release cycle and songwriting that trended towards bloated orchestration and main man Tuomas' definciencies. Which is a bit sad, because Nightwish was one of the original bands to get me into power metal − and really, got me into metal as a whole, broadening my musical universe to this day − in the first place. So I was encouraged that Yesterwynde almost brought me back into the fold, the first time since 2011's Imaginaerum. Alas, it didn't win out against the other power-metal-ful releases of the year. But it does give me hope that Nightwish's next release will bring me back even closer to where it all started."
+          "additionalText": "I had given up on this band about two albums ago, due to a plodding album release cycle and songwriting that trended towards bloated orchestration and main man Tuomas' deficiencies. Which is a bit sad, because Nightwish was one of the original bands to get me into power metal − and really, got me into metal as a whole, broadening my musical universe to this day − in the first place. So I was encouraged that Yesterwynde almost brought me back into the fold, the first time since 2011's Imaginaerum. Alas, it didn't win out against the other power-metal-ful releases of the year. But it does give me hope that Nightwish's next release will bring me back even closer to where it all started."
         }
       ]
     },
@@ -149,14 +167,19 @@ export default {
         {
           primary: "An Ocean Without A Shore",
           secondary: "Weather Systems",
-          additionalText: "This one saddens me. This album, Danny Cavanagh's return to album-making after the collapse of Anathema and the subsequent precarious battle against the dark winter of severe mental illness, was easily in my top-three anticipated albums of the year. And yet it illicits almost no feeling out of me at all, exactly the opposite of what Anathema could bring forth song after song, album after album. I very much look forward to see what Dan can do next as he continues his recovery and builds his career back up. But as for this inaugral release, I feel totally disconnected from it."
+          additionalText: `_Deep sigh_.
+          
+          This album, Danny Cavanagh's return to album-making after the collapse of Anathema and his subsequent precarious battle against the dark winter of severe mental illness, was easily in my top-three anticipated albums of the year. I mean, it's the return of Danny from Anathema, one of the greatest bands ever! And this new band is called Weather Systems, the same name as my favorite Anathema album! And the _Ocean Without A Shore_ album art even mimics the style of that favorite, but exchanges the daytime-in-the-park setting for gorgeous city lights at night, which is even better than the original!
+          
+          And yet here we are: this album elicits almost no feeling out of me, which is, needless to say, exactly the opposite of what Anathema brought forth song after song, album after album. I'm almost bewildered about how little a lasting impression _An Ocean Without A Shore_ leaves on me. How can this be the album that brings me back into the complicated embrace of Daniel Cavanagh's prowess? Furthering the bewilderment, I've seen the album hailed elsewhere as a pure and complete return to the peak of Anathema. Whatever riptide brought those effusive listeners out to float on the dark blue _Ocean_ missed me entirely.
+          
+          Still, I look forward to see what Danny can do next as he continues his recovery and builds his career back up. But as for this comeback release, I feel totally disconnected from it.`
         },
         {
           primary: "The Last Will and Testament",
           secondary: "Opeth",
           "additionalText": "I've heard this is the band's best in a decade-plus, but so far I've almost completely missed out on it, giving it only one spin at the end of 2024. Maybe it'll end up on the best of 2025 list."
         }
-
       ]
     }
   ]
