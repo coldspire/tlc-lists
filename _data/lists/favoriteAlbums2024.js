@@ -31,7 +31,7 @@ export default {
     {
       primary: "Mannequin",
       secondary: "Kyros",
-      additionalText: `Little did I know that my favorite Frost* album of the year would be by a different group. The Frost*-y influences here are worn on the band's sleeve, including freshness, playfulness, and inventiveness in spades. _Mannequin_ was my introduction to Kyros; the delightful and demanding listening experience reminded me of the first listen of _also_-English prog masters Haken and their major effort _The Mountain_. Which is to say, I've heard something spectacular.`
+      additionalText: `Little did I know that my favorite Frost* album of the year would be by a different group. The Frost*-y influences here are worn on the band's sleeve, including freshness, playfulness, and inventiveness in spades. But much like their English cousins, Kyros knows their instruments, and they know how to make complicated music go down easy. _Mannequin_ was my introduction to Kyros; the delightful and demanding listening experience reminded me of the first listen of _also_-English prog masters Haken and their major effort _The Mountain_. Which is to say, I've heard something spectacular.`
     },
     {
       primary: "The Likes of Us ",
@@ -47,7 +47,7 @@ export default {
       secondary: "Isbjörg",
       additionalText: `Where the new Weather Systems album, a legacy of the once-mighty Anathema, barely treaded water for me – [see it in the "Notable Misses" list below](#supp2-1) – this album came out of the clear blue and flew high on white-and-black wings. The single "Solitare" opened the doors to me, with its playful-but-somehow-slightly-anxious progression and its saxophone solos, and the rest of the album followed close behind. 
       
-      These Danes describe themselves as "math-stadium rockers," per the [official band site](https://www.isbjorg.dk), which on its face doesn't sound like the greatest listen, right? I mean, is math rock is supposed to be _enjoyable_? Turns out it certainly can be, as Isbjörg prove here, providing an album with technical depth and complexity as well as eminent listenability. If you listen very closely to a _Falter, Endure_ song, you realize how much is going on, how much it changes bar to bar. But then you also realize, these songs are _really_ fun and compelling. _Falter, Endure_ is a terrific journey.
+      These Danes describe themselves as "math-stadium rockers," per the [official band site](https://www.isbjorg.dk), which on its face doesn't sound like the greatest listen, right? I mean, is math rock supposed to be _enjoyable_? Turns out it certainly can be, as Isbjörg prove here, providing an album with technical depth and complexity as well as eminent listen-ability. If you listen very closely to a _Falter, Endure_ song, you realize how much is going on, how much it changes bar to bar. But then you also realize, these songs are _really_ fun and compelling. _Falter, Endure_ is a terrific journey.
 
       I also love how much unadorned piano is in the music, an instrument I always love featured in modern rock and metal. Put more piano in your stuff!`
     },
@@ -61,7 +61,7 @@ export default {
     {
       primary: "Mile Marker Zero",
       secondary: "Coming of Age",
-      additionalText: `We may never get a 00's-era Porcupine Tree album again, but the variety and confidence in this fine stash of prog rock album by Mile Marker Zero makes me feel a lot better about the dismal chances of a _Deadwing 2_. This band has been in my periphery for several years, and when _Coming of Age_ beckoned me into its corner of the progressive universe, XXXXXXXXXXXXXXXX`
+      additionalText: `We may never get a 00's-era Porcupine Tree album again, but the variety and confidence in this fine stash of prog rock album by Mile Marker Zero makes me feel a lot better about the dismal chances of a _Deadwing 2_. This band has been in my peripheral vision for several years, and when _Coming of Age_ beckoned me into its corner of the progressive universe, I'm very glad I finally brought a Mile Marker Zero album into full focus.`
     },
     {
       primary: "The Skies Above Eternity",
@@ -90,18 +90,14 @@ export default {
     {
       primary: "Wheels Within Wheels",
       secondary: "Meer",
-      additionalText: `The single "Golden Circle," one of my favorite songs of 2024, is what attracted me to the LP and the band itself. The album made the rounds on the progressive and metal communities as "pop for prog fans," which is probably right but also selling the band and album short. These Norwegians gave us one heck of a smart, savvy pop album: it can XXXXXXXXXX as well as it can play low and somber, bright and brisk as well as deep and complementative. When listening to this Meer album, I'm always a bit on the edge of my seat, attentive to where it takes me next.`
-    },
-    {
-      primary: "Where Gods Fear To Speak",
-      additionalText: `I'm not much of a doom metal listener, but this seems like a pretty good album, just going by the usual measures. But really brings me in here are the vocals, which takes it from a pretty good album to a _really_ good album. The lead vocalist of this band has the huge power and emotive strength to draw colors out of the doom-metal wall of sound the typical doom-y demonic growling cannot even hope to evoke. And because the singing is forward in the mix, layered like vanilla frosting on a black cake of death, the vocalist and her gorgeous voice becomes the vanguard of the progressive sludge performed by the rest of the band. The result is a album that simultaneously lives above the clouds and beneath the swampy mire.`
+      additionalText: `The single "Golden Circle," one of my favorite songs of 2024, is what attracted me to the LP and the band itself. The album made the rounds on the progressive and metal communities as "pop for prog fans," which is probably right but also selling the band and album short. These Norwegians gave us one heck of a savvy pop album: it can play danceable as well as slow and somber, bright and brisk as well as deep and contemplating. When listening to this Meer album, I'm always a bit on the edge of my seat, attentive to where it takes me next.`
     },
     {
       primary: "Solemn",
       secondary: "In Vain",
-      additionalText: `Among words used to describe metal albums, especially albums big in scope and with a large XXXXXXXXX, there is no word more overused than "epic." And yet I've seen that word used to describe this beefy block of death metal, an album chock full of coarse walls of guitars and growls that pierces through the mire with clean vocals, balancing the sludge.
+      additionalText: `Among words used to describe metal albums, especially albums big in scope and with a bold or sweeping breadth of sound, no word is more overused than "epic." And yet I've seen that word used to describe this beefy block of death metal, an album chock full of coarse walls of guitars and growls that pierces through the mire with clean vocals, balancing the sludge.
       
-      And you know what? It's pretty epic. The album just feels _heavy_, both musically and conceptually, and yet the addition of the clean vocals XXXXXXXXXXXXXXX. Each listen left a lasting impression on me, like I'd witnessed a landscape that was grim and cheerless but still beautiful. I don't dip my toes into the darker metal realms much, but with albums like this one, I wonder what else I've been missing.`
+      And you know what? It's pretty epic. The album just feels _heavy_, both musically and conceptually. But then the clean vocals come in, and it's like rays of golden sunlight breaking through thick storm clouds. Each listen leaves a lasting impression, like viewing a vast landscape, grim and cheerless but still beautiful. I don't dip my toes into the darker metal realms much, but with albums like this one, I wonder what else I've been missing.`
     },
     {
       primary: "Karma",
@@ -116,7 +112,7 @@ export default {
     {
       primary: "Charismatic Leaders",
       secondary: "Wheel",
-      additionalText: `This is an album of meticulous tightness. An other album that comes to mind when thinking about this Wheel album is the album _Blood_ by OSI: both albums have a clinical precision when it comes to the structure and composition of the songs, and the production and separation of the instruments. While _Charismatic Leaders_ may not have the adventurous weirdness of _Blood_, XXXXXXXXXXXXXXXXXX`
+      additionalText: `An album of meticulous tightness. An album that comes to mind when thinking about this Wheel album is the 2009 album _Blood_ by OSI: both albums have a clinical precision when it comes to the structure and composition of the songs, and the production and separation of the instruments. While _Charismatic Leaders_ may not have the adventurous weirdness of _Blood_, it still has the confidence and the steely sinew of its bloody brethren.`
     },
     {
       primary: "Les Chants de l'Aurore",
@@ -129,13 +125,18 @@ export default {
       primary: "Showdown",
       secondary: "Mega Colossus",
       additionalText: `An album of non-stop no-nonsense riffs and grooves, featuring the usual high-falutin' concepts for songwriting such as, uh, _Porco Rosso_, _Mad Max: Fury Road_, and _Face/Off_. Complete unabashed fun – you can imagine the giant grins of the musicians as they blast through track after track. Though I'm not typically hooked by adjective-less metal – no power, no death, not even any thrash, just capital-M Metal – this one has a speed and joy that hooks deep.`
-    }
+    },
+    {
+      primary: "Where Gods Fear To Speak",
+      secondary: "Oceans of Slumber",
+      additionalText: `I'm not much of a doom metal listener, but this seems like a pretty good album, just going by the usual measures. But really brings me in here are the vocals, which takes it from a pretty good album to a _really_ good album. The lead vocalist of this band has the huge power and emotive strength to draw colors out of the doom-metal wall of sound the typical doom-y demonic growling cannot even hope to evoke. And because the beautiful, strong-lunged vocals are forward in the mix, coating over black cake of death with the best whipped vanilla frosting, the gorgeous voice becomes the foundation of the progressive sludge performed by the rest of the band. The result is an album that simultaneously lives above the clouds and beneath the swampy mire.`
+    },
   ],
   supplements: [
     {
       name: "Honorable Mentions",
       description: [
-        `A batch of albums that just didn't make the cut but still held some esteem this year.`
+        `A batch of albums that just didn't make the cut but still deserve recognition.`
       ],
       items: [
         {
@@ -167,7 +168,7 @@ export default {
         {
           primary: "An Ocean Without A Shore",
           secondary: "Weather Systems",
-          additionalText: `_Deep sigh_.
+          additionalText: `_Sigh_.
           
           This album, Danny Cavanagh's return to album-making after the collapse of Anathema and his subsequent precarious battle against the dark winter of severe mental illness, was easily in my top-three anticipated albums of the year. I mean, it's the return of Danny from Anathema, one of the greatest bands ever! And this new band is called Weather Systems, the same name as my favorite Anathema album! And the _Ocean Without A Shore_ album art even mimics the style of that favorite, but exchanges the daytime-in-the-park setting for gorgeous city lights at night, which is even better than the original!
           
