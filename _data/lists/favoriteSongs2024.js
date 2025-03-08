@@ -4,6 +4,7 @@ export default {
     "WRITE ME"
   ],
   isCountdown: true,
+  isDraft: true,
   type: {
     primary: "song",
     secondary: "album and artist"
