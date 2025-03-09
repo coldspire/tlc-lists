@@ -5,6 +5,7 @@
   "scripts": {
     "build": "npm run eleventy",
     "clean": "npx rimraf dist/",
+    "deploy": "npx rimraf dist-deploy && npm run eleventy -- --pathprefix=/lists/ --output=dist-deploy",
     "eleventy": "npx @11ty/eleventy",
     "prettier": "prettier --write src/",
     "fix": "eslint --fix **/*.js",
