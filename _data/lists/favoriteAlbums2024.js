@@ -124,12 +124,12 @@ export default {
     {
       primary: "Showdown",
       secondary: "Mega Colossus",
-      additionalText: `An album of non-stop no-nonsense riffs and grooves, featuring the usual high-falutin' concepts for songwriting such as, uh, _Porco Rosso_, _Mad Max: Fury Road_, and _Face/Off_. Complete unabashed fun – you can imagine the giant grins of the musicians as they blast through track after track. Though I'm not typically hooked by adjective-less metal – no power, no death, not even any thrash, just capital-M Metal – this one has a speed and joy that hooks deep.`
+      additionalText: `An album of non-stop no-nonsense riffs and grooves, featuring the usual highfalutin concepts for songwriting such as, uh, _Porco Rosso_, _Mad Max: Fury Road_, and _Face/Off_. Complete unabashed fun – you can imagine the giant grins of the musicians as they blast through track after track. Though I'm not typically hooked by adjective-less metal – no power, no death, not even any thrash, just capital-M Metal – this one has a speed and joy that hooks deep.`
     },
     {
       primary: "Where Gods Fear To Speak",
       secondary: "Oceans of Slumber",
-      additionalText: `I'm not much of a doom metal listener, but this seems like a pretty good album, just going by the usual measures. But really brings me in here are the vocals, which takes it from a pretty good album to a _really_ good album. The lead vocalist of this band has the huge power and emotive strength to draw colors out of the doom-metal wall of sound the typical doom-y demonic growling cannot even hope to evoke. And because the beautiful, strong-lunged vocals are forward in the mix, coating over black cake of death with the best whipped vanilla frosting, the gorgeous voice becomes the foundation of the progressive sludge performed by the rest of the band. The result is an album that simultaneously lives above the clouds and beneath the swampy mire.`
+      additionalText: `I'm not much of a doom metal listener, but typically one of out of a handful of albums ropes me in with the slightest hint of melody peeking between the pitch-blank curtains of sound. In this case, there isn't just a hint of melody, but an atom-bomb detonation of it. Cammie Beverly, the lead vocalist of this band, has such power and emotive strength that she draws vivid color out of the blast-beating wall of charcoal sound, a sorcery that the typical demonic growling cannot even hope to wield. And because the soaring, strong-lunged singing is forward in the mix, the gorgeous voice becomes the foundation of the progressive-tinged instrumental sludge. The result is an album with such reach that it skims a hand up in the clouds while it dips the other hand into the swampy mire.`
     },
   ],
   supplements: [
