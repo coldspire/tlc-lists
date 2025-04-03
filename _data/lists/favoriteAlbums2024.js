@@ -9,8 +9,8 @@ export default {
     primary: "album",
     secondary: "artist"
   },
-  "isCountdown": true,
-  "items": [
+  isCountdown: true,
+  items: [
     {
       primary: "A Boat on the Sea (2019)",
       secondary: "Moron Police",
@@ -130,7 +130,7 @@ export default {
       primary: "Where Gods Fear To Speak",
       secondary: "Oceans of Slumber",
       additionalText: `I'm not much of a doom metal listener, but typically one of out of a handful of albums ropes me in with the slightest hint of melody peeking between the pitch-blank curtains of sound. In this case, there isn't just a hint of melody, but an atom-bomb detonation of it. Cammie Beverly, the lead vocalist of this band, has such power and emotive strength that she draws vivid color out of the blast-beating wall of charcoal sound, a sorcery that the typical demonic growling cannot even hope to wield. And because the soaring, strong-lunged singing is forward in the mix, the gorgeous voice becomes the foundation of the progressive-tinged instrumental sludge. The result is an album with such reach that it skims a hand up in the clouds while it dips the other hand into the swampy mire.`
-    },
+    }
   ],
   supplements: [
     {
@@ -155,9 +155,9 @@ export default {
           additionalText: `A bit pop, a bit metalcore, a bit Andrew W.K. A lot of fun but overstays its welcome by half an album. If "The Surface" was an EP of my favorites, it would easily be a top-albums list (which, really, can be said for a lot of albums). Still, this album brought me the bright and bold "ATTN," an eleventh-hour favorite song of the year.`
         },
         {
-          "primary": "Yesterwynde",
+          primary: "Yesterwynde",
           secondary: "Nightwish",
-          "additionalText": "I had given up on this band about two albums ago, due to a plodding album release cycle and songwriting that trended towards bloated orchestration and main man Tuomas' deficiencies. Which is a bit sad, because Nightwish was one of the original bands to get me into power metal − and really, got me into metal as a whole, broadening my musical universe to this day − in the first place. So I was encouraged that Yesterwynde almost brought me back into the fold, the first time since 2011's Imaginaerum. Alas, it didn't win out against the other power-metal-ful releases of the year. But it does give me hope that Nightwish's next release will bring me back even closer to where it all started."
+          additionalText: "I had given up on this band about two albums ago, due to a plodding album release cycle and songwriting that trended towards bloated orchestration and main man Tuomas' deficiencies. Which is a bit sad, because Nightwish was one of the original bands to get me into power metal − and really, got me into metal as a whole, broadening my musical universe to this day − in the first place. So I was encouraged that Yesterwynde almost brought me back into the fold, the first time since 2011's Imaginaerum. Alas, it didn't win out against the other power-metal-ful releases of the year. But it does give me hope that Nightwish's next release will bring me back even closer to where it all started."
         }
       ]
     },
@@ -179,7 +179,7 @@ export default {
         {
           primary: "The Last Will and Testament",
           secondary: "Opeth",
-          "additionalText": "I've heard this is the band's best in a decade-plus, but so far I've almost completely missed out on it, giving it only one spin at the end of 2024. Maybe it'll end up on the best of 2025 list."
+          additionalText: "I've heard this is the band's best in a decade-plus, but so far I've almost completely missed out on it, giving it only one spin at the end of 2024. Maybe it'll end up on the best of 2025 list."
         }
       ]
     }
