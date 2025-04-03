@@ -9,6 +9,7 @@ export default {
     primary: "album",
     secondary: "artist"
   },
+  status: "released",
   isCountdown: true,
   items: [
     {

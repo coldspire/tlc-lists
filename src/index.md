@@ -11,7 +11,7 @@ docTitle: Lists
 {% assign list = lists[listId] %}
     <li class="list__item">
         {% assign listTitle = list.title %}
-        {% if list.isDraft %}
+        {% if list.status == "draft" %}
         {{ listTitle }} (coming soon)
         {% else %}
         <a href="{{ listId | slugify }}/">{{ listTitle }}</a>
