@@ -103,7 +103,7 @@ body > * + * {
 }
 
 .list__item + .list__item {
-	margin-block-start: 3rem;
+	margin-block-start: 2rem;
 }
 
 .list__item:target .text--primary {
