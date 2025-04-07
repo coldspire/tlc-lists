@@ -11,10 +11,10 @@ docTitle: Lists
 {% assign list = lists[listId] %}
     <li class="list__item">
         {% assign listTitle = list.title %}
-        {% if list.isDraft %}
-        {{ listTitle }} (coming soon)
+        {% if list.status == "draft" %}
+        {{ listTitle }} <span class="badge badge--draft">coming soon</span>
         {% else %}
-        <a href="{{ listId | slugify }}/">{{ listTitle }}</a>
+        <a href="{{ listId | slugify }}/">{{ listTitle }}</a> <span class="badge badge--released">released</span>
         {% endif %}
     </li>
 {%- endfor -%}

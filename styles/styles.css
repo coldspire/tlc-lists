@@ -161,3 +161,24 @@ body > * + * {
 .anchor-link:hover {
 	text-decoration: underline;
 }
+
+/** Badges **/
+
+.badge {
+	display: inline-block;
+
+	font-size: 0.8rem;
+	text-transform: uppercase;
+
+	border-radius: 5px;
+
+	padding: 0.2rem 0.4rem;
+}
+
+.badge--released {
+	background-color: palegreen;
+}
+
+.badge--draft {
+	background-color: lightpink;
+}

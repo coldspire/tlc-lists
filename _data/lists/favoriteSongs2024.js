@@ -3,8 +3,8 @@ export default {
   description: [
     "WRITE ME"
   ],
+  status: "draft",
   isCountdown: true,
-  isDraft: true,
   type: {
     primary: "song",
     secondary: "album and artist"
