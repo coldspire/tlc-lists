@@ -172,6 +172,7 @@ body > * + * {
 
 	border-radius: 5px;
 
+	margin-inline-start: 1ch;
 	padding: 0.2rem 0.4rem;
 }
 
