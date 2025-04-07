@@ -19,7 +19,7 @@ docTitle: Lists
         {%- case list.status -%}
             {%- when "draft" -%}
                 <span class="badge badge--draft">coming soon</span>
-            {%- when "in-progress -%}
+            {%- when "in-progress" -%}
                 <span class="badge badge--in-progress">in progress</span>
             {%- when "released" -%}
                 <span class="badge badge--released">released</span>
