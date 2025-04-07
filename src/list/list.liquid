@@ -47,9 +47,11 @@ eleventyComputed:
                 </p>
                 <p class="text--secondary">{{ item.secondary }}</p>
             </div>
+            {%- if item.additionalText -%}
             <div data-words-box class="text--additional">
                 {{ item.additionalText | renderContent: "md" }}
             </div>
+            {%- endif -%}
         </div>
     </li>
     {%- endfor -%}
@@ -84,9 +86,11 @@ eleventyComputed:
                 </p>
                 <p class="text--secondary">{{ item.secondary }}</p>
             </div>
+            {%- if item.additionalText -%}
             <div data-words-box class="text--additional">
                 {{ item.additionalText | renderContent: "md" }}
             </div>
+            {%- endif -%}
         </div>
     </li>
     {%- endfor -%}
