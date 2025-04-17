@@ -1,7 +1,8 @@
 export default {
   title: "Favorite Songs of 2024",
   description: [
-    `Not surprisingly, metal represents massively on this favorites list. But as with any year, when I venture out my favorite genre, such as when I did with the jazz-funk of "Follow the Light"([#3](#3)), the progressive pop of "Golden Circle" ([#9](#9)), and the dark folksy, er, progressive pop of "Dancing with the Devil" ([#19](#19)), the listening rewards are massive.`
+    `Not surprisingly, metal represents massively on this favorites list. But as with any year, when I venture out my favorite genre, such as when I did with the jazz-funk of "Follow the Light"([#3](#3)), the progressive pop of "Golden Circle" ([#9](#9)), and the dark folksy, er, progressive pop of "Dancing with the Devil" ([#19](#19)), the listening rewards are massive.`,
+    `This list is available as a playlist (ordered from top-to-bottom) on [Apple Music 🎵](https://music.apple.com/us/playlist/top-songs-2024/pl.u-38oWXa4ua1p0m).`
   ],
   status: "released",
   isCountdown: true,
@@ -88,6 +89,16 @@ export default {
     {
       primary: `Dawnbreaker`,
       secondary: `from _The Skies Above Eternity_ by Fellowship`,
+      additionalText: ``
+    },
+    {
+      primary: `Space Famous`,
+      secondary: `from _Space Famous - EP_ by Toehider`,
+      additionalText: ``
+    },
+    {
+      primary: `Double Malt Ditty`,
+      secondary: `from _The Law of Augmenting Returns_ by The Omnific`,
       additionalText: ``
     },
     {
