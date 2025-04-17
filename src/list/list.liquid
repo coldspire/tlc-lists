@@ -45,7 +45,7 @@ eleventyComputed:
                 <p class="text--primary">
                     <a href="#{{ itemIndex }}" class="anchor-link">{{ item.primary }}</a>
                 </p>
-                <p class="text--secondary">{{ item.secondary }}</p>
+                <div class="text--secondary">{{ item.secondary | renderContent: "md" }}</div>
             </div>
             {%- if item.additionalText -%}
             <div data-words-box class="text--additional">
