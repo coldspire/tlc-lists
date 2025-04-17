@@ -1,9 +1,9 @@
 export default {
   title: "Favorite Songs of 2024",
   description: [
-    "WRITE ME"
+    `Not surprisingly, metal represents massively on this favorites list. But as with any year, when I venture out my favorite genre, such as when I did with the jazz-funk of "Follow the Light"([#3](#3)), the progressive pop of "Golden Circle" ([#9](#9)), and the dark folksy, er, progressive pop of "Dancing with the Devil" ([#19](#19)), the listening rewards are massive.`
   ],
-  status: "draft",
+  status: "released",
   isCountdown: true,
   type: {
     primary: "song",
@@ -28,6 +28,11 @@ export default {
     {
       primary: `Miramare`,
       secondary: `from _The Likes of Us_ by Big Big Train`,
+      additionalText: ``
+    },
+    {
+      primary: `ATTN.`,
+      secondary: `from _The Surface (Deluxe Edition)_ by Beartooth`,
       additionalText: ``
     },
     {
@@ -58,9 +63,7 @@ export default {
     {
       primary: `Coming of Age`,
       secondary: `from _Coming of Age_ by Mile Marker Zero`,
-      additionalText: `Draws me in with a combination of Gazpacho's mystical poetics and Porcupine Tree's rock stability. XXXXXXXXXXXXXXXXXXX
-       
-       Also, in the realm of how music hits us in strange ways: This song has one of the most simple and effective piano chord progressions I've heard in a long, long time. It's just a few chords, located around the middle of the song, but it's, like, _perfect_. Every time I hear the first two chords, I'm on the edge of my seat waiting for that third chord, even though I know exactly how it goes. And when that final chord lands, it's _just right._`
+      additionalText: ``
     },
     {
       primary: `Life in the Wires, Pt. 1`,
@@ -75,7 +78,7 @@ export default {
     {
       primary: `Solitare`,
       secondary: `from _Falter, Endure_ by Isbjörg`,
-      additionalText: `Come for the danceable math prog/rock/pop, and be rewarded with a saxophone solo. I was a big fan of Isbjörg's [2024 LP](/favoritealbums2024/#6), and this song is the apex of the melodic progressiveness on the album.`
+      additionalText: ``
     },
     {
       primary: `Submission`,
@@ -103,7 +106,7 @@ export default {
       additionalText: ``
     },
     {
-      primary: `Octupus`,
+      primary: `Octopus`,
       secondary: `from _Rug Island_ by Bluey`,
       additionalText: ``
     },
@@ -120,14 +123,12 @@ export default {
     {
       primary: `An Ocean Of Strange Islands`,
       secondary: `from _Yesterwynde_ by Nightwish`,
-      additionalText: `This is the first Nightwish song I've enjoyed in several years. Nightwish and I just don't gel as well in recent years, due to the band songwriting moving away from the gothic power/prog roots and more towards towards sweeping orchestration and symphony. But "An Ocean Of Strange Islands" brings me back some of that big dark Nightwish power, where they do a type of grounded symphonic power metal that soars and sweeps but never strays too far from a devilish grimness. 
-      
-      Overall Nightwish moved on, and I didn't keep up. But feeling some of the old spark that only Nightwish could ignite sure is nice.`
+      additionalText: ``
     },
     {
       primary: `Watch the World Burn`,
       secondary: `from _Popular Monster_ by Falling In Reverse`,
-      additionalText: `This manic song was my first taste of _Falling In Reverse_, bandleader Ronnie Radke's bad-boi revue. It was and still is good for a sugar rush, in part because of its dedication to the two halves of the bit: It starts as full-throated hip hop and ends as an over-driven metal cranker. In the end, the LP where this single resided was ultimately indigestible, with its self-aggrandizement and tough-guy posturing cranked up to an intolerable degree. But, man, this song is pretty dang loud and pretty dang fun.`
+      additionalText: ``
     }
   ]
 };
