@@ -91,6 +91,16 @@ export default {
       additionalText: ``
     },
     {
+      primary: `Space Famous`,
+      secondary: `from _Space Famous - EP_ by Toehider`,
+      additionalText: ``
+    },
+    {
+      primary: `Double Malt Ditty`,
+      secondary: `from _The Law of Augmenting Returns_ by The Omnific`,
+      additionalText: ``
+    },
+    {
       primary: `Flamme Jumelle`,
       secondary: `from _Les Chants de l'Aurore_ by Alcest`,
       additionalText: ``
