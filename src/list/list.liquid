@@ -10,6 +10,9 @@ eleventyComputed:
 ---
 
 {% assign list = lists[listId] %}
+{% assign hasMainList = list.items.length > 0 %}
+{% assign hasSupplementalLists = list.supplements %}
+{% assign hasMultipleLists = hasMainList and hasSupplementalLists or list.supplements.length > 1 %}
 
 <h1>List: {{ list.title }}</h1>
 
@@ -19,7 +22,28 @@ eleventyComputed:
     {%- endfor -%}
 </section>
 
+{%- if hasMultipleLists -%}
+<h2>Table of contents</h2>
+<section class="table-of-contents">
+    <ul class="table-of-contents__list">
+        {%- if list.items.length > 0 -%}
+        <li><a href="#{{ list.title | slugify }}">{{ list.title }}</a> (main list)</li>
+        {%- endif -%}
+        {%- if hasSupplementalLists -%}
+        {%- for suppList in list.supplements -%}
+        <li><a href="#{{ suppList.name | slugify }}">{{ suppList.name }}</a></li>
+        {%- endfor -%}
+        {%- endif -%}
+    </ul>
+</section>
+{%- endif -%}
+
+{%- if hasMultipleLists -%}
+{% assign listIdSlugified = list.title | slugify %}
+<h2 class="list__title" id="{{ listIdSlugified }}"><a href="#{{ listIdSlugified }}" class="anchor-link">{{ list.title }}</a></h2>
+{%- endif -%}
 <section class="list__container">
+
     {%- if list.isCountdown -%}
     {% assign listItems = list.items | reverse %}
     <p class="text--italic">This list counts down.</p>
@@ -64,7 +88,7 @@ eleventyComputed:
 {% assign listIndex = forloop.index %}
 
 {% assign suppListId = suppList.name | slugify %}
-<h2 id="{{ suppListId }}"><a href="#{{ suppListId }}" class="anchor-link">{{ suppList.name }}</a></h2>
+<h2 class="list__title" id="{{ suppListId }}"><a href="#{{ suppListId }}" class="anchor-link">{{ suppList.name }}</a></h2>
 
 {%- if suppList.description -%}
 <section class="description">
