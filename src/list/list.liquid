@@ -23,8 +23,8 @@ eleventyComputed:
 </section>
 
 {%- if hasMultipleLists -%}
+<h2>Table of contents</h2>
 <section class="table-of-contents">
-    <h2>Table of contents</h2>
     <ul class="table-of-contents__list">
         {%- if list.items.length > 0 -%}
         <li><a href="#{{ list.title | slugify }}">{{ list.title }}</a></li>
@@ -38,12 +38,12 @@ eleventyComputed:
 </section>
 {%- endif -%}
 
+{%- if hasMultipleLists -%}
+{% assign listIdSlugified = list.title | slugify %}
+<h2 class="list__title" id="{{ listIdSlugified }}"><a href="#{{ listIdSlugified }}" class="anchor-link">{{ list.title }}</a></h2>
+{%- endif -%}
 <section class="list__container">
-    {% assign listIdSlugified = list.title | slugify %}
 
-    {%- if hasMultipleLists -%}
-        <h2 class="list__title" id="{{ listIdSlugified }}"><a href="#{{ listIdSlugified }}" class="anchor-link">{{ list.title }}</a></h2>
-    {%- endif -%}
     {%- if list.isCountdown -%}
     {% assign listItems = list.items | reverse %}
     <p class="text--italic">This list counts down.</p>
