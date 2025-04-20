@@ -107,7 +107,7 @@ body > * + * {
 	margin-block-start: 2rem;
 }
 
-.list__item:target .text--primary {
+:is(.list__item:target .text--primary, .list__title:target) {
 	border-radius: 5px;
 	background-color: #ffd280;
 }
@@ -147,7 +147,7 @@ body > * + * {
 	position: sticky;
 	top: 0;
 
-    --bg-distance: calc(90% + var(--fade-distance));
+	--bg-distance: calc(90% + var(--fade-distance));
 	background-image: linear-gradient(to bottom, var(--bg-color) 85%, transparent);
 }
 
@@ -187,4 +187,14 @@ body > * + * {
 
 .badge--in-progress {
 	background-color: skyblue;
+}
+
+/** Table of contents **/
+
+.table-of-contents {
+	font-size: 1.5rem;
+}
+
+.table-of-contents__list > li + li {
+	margin-top: 1rem;
 }
