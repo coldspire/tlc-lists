@@ -27,7 +27,7 @@ eleventyComputed:
 <section class="table-of-contents">
     <ul class="table-of-contents__list">
         {%- if list.items.length > 0 -%}
-        <li><a href="#{{ list.title | slugify }}">{{ list.title }}</a></li>
+        <li><a href="#{{ list.title | slugify }}">{{ list.title }}</a> (main list)</li>
         {%- endif -%}
         {%- if hasSupplementalLists -%}
         {%- for suppList in list.supplements -%}
