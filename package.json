@@ -11,6 +11,7 @@
     "fix": "eslint --fix **/*.js",
     "lint": "eslint --ext .js --fix src/**",
     "serve": "npm run eleventy -- --serve",
+    "scrape": "node ./dev/run-scrape.js",
     "start": "npm run serve"
   },
   "private": true,
