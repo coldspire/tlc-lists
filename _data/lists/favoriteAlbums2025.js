@@ -38,7 +38,7 @@ export default {
           secondary: "Judicator"
         },
         {
-          primary: "Emberblow",
+          primary: "Emberglow",
           secondary: "Orpheus Omega"
         },
         {
@@ -54,16 +54,8 @@ export default {
           secondary: "Hellven"
         },
         {
-          primary: "Here Be Dragons",
-          secondary: "Avantasia"
-        },
-        {
           primary: "Mend",
           secondary: "Eidola"
-        },
-        {
-          primary: "Power Train",
-          secondary: "Majestica"
         },
         {
           primary: "Shards",
@@ -96,6 +88,95 @@ export default {
         {
           primary: "Tsunami Sea",
           secondary: "Spiritbox"
+        },
+        {
+          primary: "Civilisation (2018)",
+          secondary: "Southern Empire"
+        },
+        {
+          primary: "Tales Of A Dying Sun",
+          secondary: "Ash Twin Project"
+        },
+        {
+          primary: "Room On The Porch",
+          secondary: "Taj Mahal & Keb' Mo'"
+        },
+        {
+          primary: "Even In Arcadia",
+          secondary: "Sleep Token"
+        },
+        {
+          primary: "Fimbulvinter",
+          secondary: "Bjørn Riis"
+        },
+        {
+          primary: "Evangeline vs. The Machine",
+          secondary: "Eric Church"
+        },
+        {
+          primary: "The Third Sleep",
+          secondary: "Oak"
+        },
+        {
+          primary: "Will You Haunt Me, With That Same Patience",
+          secondary: "Bury Tomorrow"
+        },
+        {
+          primary: "Glasgow Love Story",
+          secondary: "Tide Lines"
+        },
+        {
+          primary: "Alunea",
+          secondary: "Kardashev"
+        },
+        {
+          primary: "Variola Vera (2021)",
+          secondary: "Himmellgeme"
+        },
+        {
+          primary: "Feary Tales For Strange Lullabies: The Dome",
+          secondary: "6:33"
+        },
+        {
+          primary: "Cinder",
+          secondary: "Lux Terminus"
+        },
+        {
+          primary: "The Harmony Machine",
+          secondary: "Teramaze"
+        },
+        {
+          primary: "SABLE, fABLE",
+          secondary: "Bon Iver"
+        },
+        {
+          primary: "Aspiral",
+          secondary: "Epica"
+        },
+        {
+          primary: "Let There Be Dark",
+          secondary: "Tower"
+        }
+      ]
+    },
+    {
+      name: "Notable",
+      description: [
+        `These 2025 releases are _not_ under consideration for a top album, but they are still worth writing about.`
+      ],
+      itemMarker: '🤷‍♂️',
+      items: [
+        {
+          primary: "PowerNerd",
+          secondary: "Devin Townsend"
+        },
+        {
+          primary: "Here Be Dragons",
+          secondary: "Avantasia"
+        },
+        {
+          primary: "Power Train",
+          secondary: "Majestica"
         }
       ]
     }
