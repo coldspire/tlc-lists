@@ -13,7 +13,7 @@ export default {
       name: "Up for Consideration",
       description: [
         `Keeping track of potential favorites as 2025 progresses.`,
-        `Last updated on April 6, 2025.`
+        `Last updated on July 23, 2025.`
       ],
       itemMarker: '🤔',
       items: [
@@ -156,6 +156,42 @@ export default {
         {
           primary: "Let There Be Dark",
           secondary: "Tower"
+        },
+        {
+          primary: "God of Angels Trust",
+          secondary: "Volbeat"
+        },
+        {
+          primary: "Відрада",
+          secondary: "Obiymy Doschu"
+        },
+        {
+          primary: "Until Fear No Longer Defines Us (2009)",
+          secondary: "Ghost Brigade"
+        },
+        {
+          primary: "A Random Moment of Stillness",
+          secondary: "Sublunar"
+        },
+        {
+          primary: "The Thunderfist Chronicles",
+          secondary: "Alestorm"
+        },
+        {
+          primary: "A LA SALA",
+          secondary: "Khruangbin"
+        },
+        {
+          primary: "Corporation P.O.P.",
+          secondary: "Hot Milk"
+        },
+        {
+          primary: "Regenesis",
+          secondary: "Celestial Wizard"
+        },
+        {
+          primary: "Edge of the Abyss",
+          secondary: "Calva Louise"
         }
       ]
     },
