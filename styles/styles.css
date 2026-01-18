@@ -112,8 +112,23 @@ body > * + * {
 }
 
 :is(.list__item:target .text--primary, .list__title:target) {
-	border-radius: 5px;
-	background-color: #ffd280;
+	position: relative;
+
+	&:before {
+		content: ' ';
+		position: absolute;
+		bottom: 0.1lh;
+		z-index: -1;
+
+		display: inline-block;
+
+		height: 100%;
+		width: 100%;
+		clip-path: polygon(74% 26%, 86% 60%, 100% 50%, 86% 83%, 73% 56%, 57% 100%, 0 100%, 0 0, 58% 52%);
+
+		border-radius: 5px;
+		background: linear-gradient(90deg, #ffe7c6, #ffcbc5, #ffc3da, #ffc2f6, #ebc1ff);
+	}
 }
 
 .list__item__container {
