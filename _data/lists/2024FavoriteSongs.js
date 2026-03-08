@@ -10,6 +10,10 @@ export default {
     primary: "song",
     secondary: "album and artist"
   },
+  zipStyle: {
+    colorStart: "#ffea80",
+    colorEnd: "#ff8cc9"
+  },
   items: [
     {
       primary: `The Azdinist / Den of Dawns`,

@@ -10,6 +10,10 @@ export default {
   },
   status: "released",
   isCountdown: true,
+  zipStyle: {
+    colorStart: "#f7ff0a",
+    colorEnd: "#0a707b"
+  },
   items: [
     { primary: "Pachinko", secondary: "Moron Police" },
     { primary: "Hidden Realms", secondary: "Valiant Hearts" },
