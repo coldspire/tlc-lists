@@ -129,7 +129,7 @@ body > * + * {
 		clip-path: polygon(74% 26%, 86% 60%, 100% 50%, 86% 83%, 73% 56%, 57% 100%, 0 100%, 0 0, 58% 52%);
 
 		border-radius: 5px;
-		background: linear-gradient(90deg in oklch, #ffe7c6, #ebc1ff);
+		background: linear-gradient(90deg, #ffe7c6, #ffcbc5, #ffc3da, #ffc2f6, #ebc1ff);
 	}
 }
 
