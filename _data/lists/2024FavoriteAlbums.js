@@ -11,6 +11,10 @@ export default {
   },
   status: "released",
   isCountdown: true,
+  zipStyle: {
+    colorStart: "#ffe799",
+    colorEnd: "#ff61b5"
+  },
   items: [
     {
       primary: "A Boat on the Sea (2019)",

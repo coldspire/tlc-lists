@@ -8,12 +8,11 @@ permalink: "{{ listId | slugify }}/index.html"
 eleventyComputed:
   docTitle: "List - {{ lists[listId].title }}"
 ---
-
 {% assign list = lists[listId] %}
 {% assign hasMainList = list.items.length > 0 %}
 {% assign hasSupplementalLists = list.supplements %}
 {% assign hasMultipleLists = hasMainList and hasSupplementalLists or list.supplements.length > 1 %}
-
+<div{% if list.zipStyle.colorStart and list.zipStyle.colorEnd %} style="--zip-color-start-custom: {{ list.zipStyle.colorStart }}; --zip-color-end-custom: {{ list.zipStyle.colorEnd }};"{% endif %}>
 <h1>List: {{ list.title }}</h1>
 
 <section class="description">
@@ -21,6 +20,8 @@ eleventyComputed:
     {{ line | renderContent: "md" }}
     {%- endfor -%}
 </section>
+
+<p><a href="/lists/">Back to index</a></p>
 
 {%- if hasMultipleLists -%}
 <h2>Table of contents</h2>
@@ -127,3 +128,4 @@ eleventyComputed:
 <footer>
     <a href="/lists/">Back to index</a>
 </footer>
+</div>
