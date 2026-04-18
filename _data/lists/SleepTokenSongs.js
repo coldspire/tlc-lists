@@ -7,8 +7,8 @@ export default {
   }, status: "released",
   isCountdown: true,
   zipStyle: {
-    colorStart: "gold",
-    colorEnd: "black"
+    colorStart: "pink",
+    colorEnd: "gray"
   }, items: [
     {
       primary: "Caramel",
