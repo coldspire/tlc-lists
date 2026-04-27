@@ -1,7 +1,7 @@
 export default {
   title: "Sleep Token Songs Ranked",
   "description": [
-    `The mysterious and tightly-wound band _Sleep Token_ has a body of work (four albums, as of 2026) that I enjoy muchly. The catalog is `,
+    `The mysterious and tightly-wound band _Sleep Token_ has a body of work (four albums, as of 2026) that I enjoy muchly. With all the variance in the catalog, why not see how the songs shake out when ranked?`,
     `This list is available as a playlist (ordered from top-to-bottom) on [Apple Music 🎵](https://music.apple.com/us/playlist/sleep-token-ranked/pl.u-e98llj5Ib9DrV).`
   ],
   type: {
@@ -21,7 +21,7 @@ export default {
     }, {
       primary: "Euclid",
       secondary: "🗿 Take Me Back to Eden",
-      additionalText: "The gorgeous closer to _Eden_ is introspective and somber without being sappy. A buoyant piano backing lifts above its weight here."
+      additionalText: "The gorgeous closer to _Eden_ is introspective and somber without being sappy. A buoyant piano backing elevates the concept into the stars."
     },
     {
       primary: "The Summoning",
@@ -31,7 +31,7 @@ export default {
     {
       primary: "Look To Windward",
       secondary: "🦩 Even in Arcadia",
-      additionalText: "This song seems like the overture of a fantastic adventure, further illustrated by the Even in Arcadia artwork and social campaign that featured black flamingos and resplendent pink-ivy castles under siege."
+      additionalText: "Like the overture of a grim but fantastic adventure. When I listen to this song, the lead track from EIA, I feel it directly connected to the black flamingos and resplendent pink-ivy castles under siege of the album art and media campaign. For me this song is directly connected to the EIA lore, more so than any other track on the album. That's all in my head, of course, but that's what strong art does to a person, yes?"
     },
     {
       primary: "Chokehold",
@@ -111,7 +111,7 @@ export default {
     {
       primary: "Alkaline",
       secondary: "🌊 This Place Will Become Your Tomb",
-      additionalText: "In a lot of ways, this is a big _Sleep Token_ song."
+      additionalText: "This is a strong, swagging track. It's possibly the one on TPWBYT that defines the \"Sleep Token sound\" most accurately."
     },
     {
       primary: "Dark Signs",
@@ -126,7 +126,7 @@ export default {
     {
       primary: "Aqua Regia",
       secondary: "🗿 Take Me Back to Eden",
-      additionalText: "A great follow-up to the silky \"Granite\" on TMBTE, which combined brings us down gently from the double-track opening assault."
+      additionalText: "A great follow-up to the silky \"Granite\" on TMBTE, which when combined brings us down gently from the double-track opening assault of \"Chokehold\" and \"The Summoning\"."
     },
     {
       primary: "Blood Sport",
@@ -206,7 +206,7 @@ export default {
     {
       primary: "High Water",
       secondary: "🌊 This Place Will Become Your Tomb",
-      additionalText: ""
+      additionalText: "Though I like how the vocals are back in the mix a bit, giving this song some distance and tension, the two halves of the song (contemplative, and then anger) don't fully coalesce for me."
     },
     {
       primary: "The Apparition",
